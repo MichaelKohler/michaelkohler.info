@@ -170,7 +170,7 @@ _At the end of the official part of the day we had a discussion about the "Commu
 
 _ _
 
-[![CommunityTiles](http://www.michaelkohler.info/wp-content/uploads/2015/02/CommunityTiles-1024x636.jpg)](http://www.michaelkohler.info/wp-content/uploads/2015/02/CommunityTiles.jpg)
+[![CommunityTiles](/images/2015/02/CommunityTiles-1024x636.jpg)](/images/2015/02/CommunityTiles.jpg)
 
 _(Foto/Photo: Hagen Halbach)_
 

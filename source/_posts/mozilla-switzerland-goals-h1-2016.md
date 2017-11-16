@@ -13,7 +13,7 @@ Back in November we had a Community Meetup. The goal was to get a current status
 
 With these remarks in mind, we started to define goals for 2016\. Since there are a lot of changes within one year, the goals will currently only focus on the first part of the year. Then we can evaluate them, shift metrics if needed, and define new goals. This allows us to be more flexible.
 
-![](https://michaelkohler.info/wp-content/uploads/2016/02/CRgk487XIAAwpkg.jpg)
+![](/images/2016/02/CRgk487XIAAwpkg.jpg)
 
 The goals are highly influenced by the [OKR (Objective - Key Results) Framework](http://eleganthack.com/the-art-of-the-okr/). To document open issues that support this goal, I have created [a repository in our MozillaCH GitHub organization](https://github.com/mozillach/participation). The goal is to assign the "overall goal" label to each issue. You can find a good documentation on GitHub issues [in their documentation](https://help.github.com/articles/about-issues/). There is [a template](https://github.com/mozillach/participation/issues/1) you can use for new issues.
 
@@ -23,8 +23,8 @@ The goals are highly influenced by the [OKR (Objective - Key Results) Framework]
 *   [Objective 4](https://github.com/mozillach/participation/issues/6): The MozillaCH website is the place to link to for community topics
 *   [Objective 5](https://github.com/mozillach/participation/issues/7): With talks and events we increase our reach and provide a valuable information source regarding the Open Web
 *   [Objective 6](https://github.com/mozillach/participation/issues/8): Social Media is a crucial part of our activities providing valuable information about Mozilla and the Open Web
-![CRhvD5rWwAEDmGp](https://michaelkohler.info/wp-content/uploads/2016/02/CRhvD5rWwAEDmGp.jpg)
+![CRhvD5rWwAEDmGp](/images/2016/02/CRhvD5rWwAEDmGp.jpg)
 
 We know that not all of those goals are easily achievable, but this gives us a good way to be ambitious. To a successful first half of 2016, let's bring our community further and keep rocking the Open Web!
 
-![CL52IqpWIAAQN0Y](https://michaelkohler.info/wp-content/uploads/2016/02/CL52IqpWIAAQN0Y.jpg)
+![CL52IqpWIAAQN0Y](/images/2016/02/CL52IqpWIAAQN0Y.jpg)

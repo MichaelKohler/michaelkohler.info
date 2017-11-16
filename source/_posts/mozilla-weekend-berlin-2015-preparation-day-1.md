@@ -17,7 +17,7 @@ First we had a "Call for Speakers" which did not turn out as hoped, since we did
 
 It was the first time we created a website for an event in the German-speaking community. We decided on [mozweekend.de](http://mozweekend.de/) which we will be able to use also for future Mozilla Weekends in Germany. I think we need to do that as well for future, big events since we had quite a lot of visitors and registrations. Until one day before the event we had about 120 registrations.
 
-[![CI6ryViWcAALYGP.png_large](http://www.michaelkohler.info/wp-content/uploads/2015/07/CI6ryViWcAALYGP.png_large.png)](http://www.michaelkohler.info/wp-content/uploads/2015/07/CI6ryViWcAALYGP.png_large.png)
+[![CI6ryViWcAALYGP.png_large](/images/2015/07/CI6ryViWcAALYGP.png_large.png)](/images/2015/07/CI6ryViWcAALYGP.png_large.png)
 
 **Day 1 - July 11**
 
@@ -95,31 +95,33 @@ For the first day, we had planned talks to introduce Mozilla, and dive deeper in
 
 All these talks will be available on [air.mozilla.org](air.mozilla.org) once their uploaded as well! I think we had quite a good mix of projects, even though Firefox was not represented as good as it could have been.
 > Awesome talk about [@firefox](https://twitter.com/firefox) OS by [@sonnenkiste](https://twitter.com/sonnenkiste) at [#mozweekend](https://twitter.com/hashtag/mozweekend?src=hash) [@mozilla](https://twitter.com/mozilla) [pic.twitter.com/fcd39pdK6R](http://t.co/fcd39pdK6R)
-> 
+>
 > — Mario Behling (@mariobehling) [July 11, 2015](https://twitter.com/mariobehling/status/619834739541868544)
 <script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script>
 
-> What an eye-opening talk about Women in the Tech industry by [@KristiProgri](https://twitter.com/KristiProgri) [#mozweekend](https://twitter.com/hashtag/mozweekend?src=hash) [pic.twitter.com/LaCGMJ2dIY](http://t.co/LaCGMJ2dIY)> 
-> 
+> What an eye-opening talk about Women in the Tech industry by [@KristiProgri](https://twitter.com/KristiProgri) [#mozweekend](https://twitter.com/hashtag/mozweekend?src=hash) [pic.twitter.com/LaCGMJ2dIY](http://t.co/LaCGMJ2dIY)
+>
+>
 > — TheOne (@wagnerand) [July 11, 2015](https://twitter.com/wagnerand/status/619859490192642048)
 
 <script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script>
 
 The "Ask us Anything" session was very important and it was great to have Mitchell Baker, Chairwomen of the Mozilla Foundation, and David Bryant (VP of Platform Engineering), and Axel Hecht (contributed since the beginning of Mozilla). We had a lot of interesting questions from the audience.
 > QA with [@MitchellBaker](https://twitter.com/MitchellBaker) [@david_bryant](https://twitter.com/david_bryant) and [@axelhecht](https://twitter.com/axelhecht) at [#mozweekend](https://twitter.com/hashtag/mozweekend?src=hash) [pic.twitter.com/uzLgfNKUd8](http://t.co/uzLgfNKUd8)
-> 
+>
 > — Brian King (@brianking) [July 11, 2015](https://twitter.com/brianking/status/619800933640310784)
 <script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script>
 
 You can find all the pictures and tweets with the hashtag [#mozweekend](https://twitter.com/search?q=mozweekend).
 
-> Excited to see [@geroter](https://twitter.com/geroter) and [@KohlerSolutions](https://twitter.com/KohlerSolutions) talking about Contributing at Mozilla, incl. fun exercises! [#mozweekend](https://twitter.com/hashtag/mozweekend?src=hash) [pic.twitter.com/dicfLSJGhE](http://t.co/dicfLSJGhE)> 
-> 
+> Excited to see [@geroter](https://twitter.com/geroter) and [@KohlerSolutions](https://twitter.com/KohlerSolutions) talking about Contributing at Mozilla, incl. fun exercises! [#mozweekend](https://twitter.com/hashtag/mozweekend?src=hash) [pic.twitter.com/dicfLSJGhE](http://t.co/dicfLSJGhE)
+>
+>
 > — TheOne (@wagnerand) [July 11, 2015](https://twitter.com/wagnerand/status/619878069214543872)
 
 <script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script>
 > [#mozweekend](https://twitter.com/hashtag/mozweekend?src=hash) [#berlin](https://twitter.com/hashtag/berlin?src=hash) 2015 [pic.twitter.com/laK02rAP6Q](http://t.co/laK02rAP6Q)
-> 
+>
 > — ANIL KUMAR (@anilbms75) [July 16, 2015](https://twitter.com/anilbms75/status/621781127188115456)
 <script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script>
 
