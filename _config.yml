@@ -80,6 +80,8 @@ deploy:
   type:
 
 # RSS Feed Plugin
+# NOTE: it is 'category' as prefix for legacy reasons,
+#       these are actually tags
 tagFeed:
   type: atom
   path:
