@@ -80,7 +80,7 @@ deploy:
   type: rsync
   host: me.michaelkohler.info
   user: mkohler
-  root: /var/www/html/michaelkohler-blog/
+  root: /var/www/html/michaelkohler/
   port: 22
   delete: false
   verbose: true
