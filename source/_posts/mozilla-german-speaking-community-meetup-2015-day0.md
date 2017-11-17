@@ -1,12 +1,11 @@
 ---
 title: Treffen der deutschsprachigen Mozilla Gemeinschaft - Tag 0 (DE / EN)
+id: 233
 tags:
   - Mozilla
-id: 233
+  - mozillareps
 categories:
   - Mozilla
-  - MozillaDeutsch
-  - mozillareps
 date: 2015-02-27 04:32:52
 ---
 

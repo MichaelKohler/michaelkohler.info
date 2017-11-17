@@ -1,11 +1,12 @@
 ---
 title: German-speaking Mozilla Community Meetup February 2014
 id: 167
-categories:
+tags:
   - Mozilla
   - mozillareps
+categories:
+  - Mozilla
 date: 2014-02-23 23:34:25
-tags:
 ---
 
 **TL;DR:** Great meetup, let's work on our defined goals for 2014!

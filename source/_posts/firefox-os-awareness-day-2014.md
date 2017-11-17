@@ -1,13 +1,11 @@
 ---
 title: Firefox OS Awareness Day 2014
 tags:
-  - Events
-  - Firefox OS
-  - Mozilla
-id: 219
-categories:
   - Mozilla
   - mozillareps
+categories:
+  - Mozilla
+id: 219
 date: 2015-02-08 16:05:31
 ---
 

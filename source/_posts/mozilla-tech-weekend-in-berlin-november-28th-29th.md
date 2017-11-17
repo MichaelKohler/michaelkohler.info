@@ -1,12 +1,12 @@
 ---
 title: Mozilla Tech Weekend in Berlin - November 28th & 29th
 id: 320
+tags:
+  - Mozilla
+  - mozillareps
 categories:
   - Mozilla
-  - MozillaParticipation
-  - mozillareps
 date: 2015-11-14 16:02:14
-tags:
 ---
 
 The Berlin Mozilla Community would like to invite all of you to the **Mozilla Tech Weekend** on **November 28th 2015**. There will be **tech talks **on Saturday and **workshops **on Sunday.

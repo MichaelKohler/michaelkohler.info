@@ -1,12 +1,12 @@
 ---
 title: Treffen der deutschsprachigen Mozilla Gemeinschaft - Tag 2 (DE / EN)
 id: 244
+tags:
+  - Mozilla
+  - mozillareps
 categories:
   - Mozilla
-  - MozillaDeutsch
-  - mozillareps
 date: 2015-02-27 04:33:44
-tags:
 ---
 
 _(English version below every paragraph)_

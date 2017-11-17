@@ -1,11 +1,12 @@
 ---
 title: German-speaking Community - Status of goals
 id: 284
-categories:
+tags:
   - Mozilla
   - mozillareps
+categories:
+  - Mozilla
 date: 2015-04-28 00:04:38
-tags:
 ---
 
 At the German-speaking community [meetup in February](http://www.michaelkohler.info/2015/mozilla-german-speaking-community-meetup-2015-day1) we set some goals to reach in 2015\. In our [last bi-weekly meeting](https://air.mozilla.org/german-speaking-community-bi-weekly-meeting-20150423/) we discussed the current status of those goals. Here's a quick summary:

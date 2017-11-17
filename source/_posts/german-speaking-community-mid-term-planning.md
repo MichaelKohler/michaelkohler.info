@@ -1,12 +1,12 @@
 ---
 title: German-speaking Community mid-term planning
 id: 329
+tags:
+  - Mozilla
+  - mozillareps
 categories:
   - Mozilla
-  - MozillaParticipation
-  - mozillareps
 date: 2015-12-24 18:44:26
-tags:
 ---
 
 Mozilla's [Participation Team](https://wiki.mozilla.org/Participation) has started to do "mid-term plannings" with a few focus communities back in September. The goal was to identify potential and goals for a six month plan which would then be implemented with the help of all the community. Since Germany is one of the focus markets for Firefox, it's clear that the German-speaking community was part of that as well

@@ -5,6 +5,7 @@ categories:
   - Mozilla
 date: 2010-04-18 21:30:48
 tags:
+  - Mozilla
 ---
 
 Currently there is a discussion about the Tabs-on-Top feature in the [mozilla.dev.apps.firefox newsgroup](http://groups.google.de/group/mozilla.dev.apps.firefox/browse_thread/thread/29849697fc8f53f5#). Tabs-on-tops has been [pushed](http://hg.mozilla.org/mozilla-central/log?rev=544815) to the nightly (trunk) development branch of firefox on April 6th 2010\. Pretty much every new feature introduced to Firefox leads to a more or less active discussion but this time it is very important to find the right decision since this is a major change in the front UI. Of course there will never be an agreement because GUIs are still a matter of subjective. Now the FF UI design team needs to find a decision which is best for most of the users.

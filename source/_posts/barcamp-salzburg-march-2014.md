@@ -1,11 +1,12 @@
 ---
 title: Barcamp Salzburg March 2014
 id: 173
-categories:
+tags:
   - Mozilla
   - mozillareps
+categories:
+  - Mozilla
 date: 2014-04-13 17:29:55
-tags:
 ---
 
 On the 15th of March I organized a Firefox OS workshop at the [Barcamp Salzburg](http://lanyrd.com/2014/barcamp-salzburg-next-web-march-2014/). But let's start from the beginning.

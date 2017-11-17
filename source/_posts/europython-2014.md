@@ -1,11 +1,12 @@
 ---
 title: EuroPython 2014
 id: 204
-categories:
+tags:
   - Mozilla
   - mozillareps
+categories:
+  - Mozilla
 date: 2014-11-20 21:39:39
-tags:
 ---
 
 Disclaimer: this is an event report from [Marco Perez](https://mozillians.org/en-US/u/another_loco/).

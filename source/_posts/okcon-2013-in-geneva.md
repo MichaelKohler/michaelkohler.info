@@ -1,11 +1,13 @@
 ---
 title: OKCon 2013 in Geneva
 id: 159
-categories:
+tags:
   - Mozilla
   - mozillareps
+  - MozillaCH
+categories:
+  - Mozilla
 date: 2013-11-03 12:39:52
-tags:
 ---
 
 Mid of September I attended the [Open Knowledge Conference 2013](http://okcon.org/) in Geneva. To be honest, I had never heard of the Open Knowledge Foundation before (or I just don't recall), so I was quite happy to see that this year's conference was in Geneva.  I just found out about it, because [Kaitlin Thaney](https://mozillians.org/en-US/u/kaythaney/), Director Mozilla Science Lab had a talk there.

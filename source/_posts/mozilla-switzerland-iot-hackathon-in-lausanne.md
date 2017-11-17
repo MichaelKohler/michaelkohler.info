@@ -1,14 +1,12 @@
 ---
 title: Mozilla Switzerland IoT Hackathon in Lausanne
-tags:
-  - hackathon
-  - MozillaCH
 id: 368
+tags:
+  - Mozilla
+  - mozillareps
+  - MozillaCH
 categories:
   - Mozilla
-  - MozillaCH
-  - MozillaParticipation
-  - mozillareps
 date: 2016-04-24 13:04:27
 ---
 

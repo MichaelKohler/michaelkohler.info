@@ -1,13 +1,13 @@
 ---
 title: Mozilla Switzerland Community Meetup 2017
 id: 414
+tags:
+  - Mozilla
+  - mozillareps
+  - MozillaCH
 categories:
   - Mozilla
-  - MozillaCH
-  - MozillaParticipation
-  - mozillareps
 date: 2017-01-28 21:55:40
-tags:
 ---
 
 On the 28th of January we, the Mozilla Switzerland, community held another community meetup to organize ourselves for the next few months in 2017.

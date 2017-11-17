@@ -1,11 +1,12 @@
 ---
 title: Mozilla Hacking Day 2 - 11.10.2014
 id: 197
-categories:
+tags:
   - Mozilla
   - mozillareps
+categories:
+  - Mozilla
 date: 2014-11-20 21:32:40
-tags:
 ---
 
 On the 11th of October we organized a "Mozilla Hacking Day 2" in Berlin. This was the follow up of the first Hacking Day in Berlin in April.

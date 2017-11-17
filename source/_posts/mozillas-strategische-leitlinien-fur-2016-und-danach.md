@@ -1,11 +1,12 @@
 ---
 title: Mozillas strategische Leitlinien für 2016 und danach
 id: 348
+tags:
+  - Mozilla
+  - mozillareps
 categories:
   - Mozilla
-  - MozillaDeutsch
 date: 2016-01-19 17:27:24
-tags:
 ---
 
 Dieser Beitrag wurde zuerst im Blog auf[ https://blog.mozilla.org/community](https://blog.mozilla.org/community) veröffentlicht. Herzlichen Dank an Aryx und Coce für die Übersetzung!

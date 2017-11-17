@@ -1,12 +1,13 @@
 ---
 title: Mozilla Switzerland Goals H1 2016
 id: 354
+tags:
+  - Mozilla
+  - mozillareps
+  - MozillaCH
 categories:
   - Mozilla
-  - MozillaCH
-  - mozillareps
 date: 2016-02-07 15:43:26
-tags:
 ---
 
 Back in November we had a Community Meetup. The goal was to get a current status on the Community and define plans and goals for 2016\. To do that, we started with a [SWOT-Analysis](https://en.wikipedia.org/wiki/SWOT_analysis). You can find it [here](https://docs.google.com/spreadsheets/d/1CtC9L1VR3uE3wcO90sIXgdRnqKyQGHPsBbIJQn-3qVY/edit#gid=0).

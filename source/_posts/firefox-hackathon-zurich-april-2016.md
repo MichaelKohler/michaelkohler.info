@@ -1,13 +1,13 @@
 ---
 title: Firefox Hackathon Zurich April 2016
 id: 381
+tags:
+  - Mozilla
+  - mozillareps
+  - MozillaCH
 categories:
   - Mozilla
-  - MozillaCH
-  - MozillaParticipation
-  - mozillareps
 date: 2016-05-05 14:31:47
-tags:
 ---
 
 Last Saturday we've held a [Firefox Hackathon](https://reps.mozilla.org/e/firefox-hackathon-zurich-april-2015/) in Zurich, Switzerland. We've had 12 people joining us.

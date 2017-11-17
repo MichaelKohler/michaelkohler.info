@@ -1,11 +1,12 @@
 ---
 title: Mozilla Hacking Day April 2014
 id: 189
-categories:
+tags:
   - Mozilla
   - mozillareps
+categories:
+  - Mozilla
 date: 2014-05-26 22:57:03
-tags:
 ---
 
 <div class="moz-text-html" lang="x-unicode">

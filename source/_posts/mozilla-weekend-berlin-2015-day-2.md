@@ -1,22 +1,23 @@
 ---
 title: Mozilla Weekend Berlin - Day 2 / Feedback
 id: 312
+tags:
+  - Mozilla
+  - mozillareps
 categories:
   - Mozilla
-  - MozillaParticipation
-  - mozillareps
 date: 2015-07-19 20:38:51
-tags:
 ---
 
 At the Community Meetup of the German-speaking community back in February we decided to organize a Mozilla Day or Mozilla Weekend in 2015 to get more visible in Berlin, tell people about Mozilla’s mission and projects, and recruit new Mozillians. We did this on July 11th and 12th. This is the post about Day 2\. You can read about [Day 1 in a previous blog post](http://www.michaelkohler.info/2015/mozilla-weekend-berlin-2015-preparation-day-1).
 > Introducing participants to Bugzilla, quick session by [@axelhecht](https://twitter.com/axelhecht) [#mozweekend](https://twitter.com/hashtag/mozweekend?src=hash) [pic.twitter.com/KeZyZgLnbz](http://t.co/KeZyZgLnbz)
-> 
+>
 > — Michael Kohler (@KohlerSolutions) [July 12, 2015](https://twitter.com/KohlerSolutions/status/620185074911195136)
 <script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script>**Day 2** On Sunday we had several workshops going on in parallel in the Mozilla Office in Berlin. Around 30 attendees joined us and hacked on Firefox, Firefox OS and brainstormed about involved in the Community Creative Team. Since we had coders and designers there, we had a good balance of workshops to participate in.
 
-> Heads down hacking at [#mozweekend](https://twitter.com/hashtag/mozweekend?src=hash) Berlin day 2 [pic.twitter.com/tYJw7io7mQ](http://t.co/tYJw7io7mQ)> 
-> 
+> Heads down hacking at [#mozweekend](https://twitter.com/hashtag/mozweekend?src=hash) Berlin day 2 [pic.twitter.com/tYJw7io7mQ](http://t.co/tYJw7io7mQ)
+>
+>
 > — Brian King (@brianking) [July 12, 2015](https://twitter.com/brianking/status/620212070936674304)
 
 <script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script>
@@ -34,7 +35,7 @@ Florian will send out an invitation for a follow up in Berlin later this week. S
 
 Further Elio started the Community Design Creative in Germany. They will have their first meetup (physically with Vidyo participation) at the end of the month. This was a group of about 7 persons interested in design. Since we currently only have 2 designers in our German-speaking community I think this is a great addition and has great potential. Let's keep focus on this and keep them engaged!
 > Deep thinking with [@axelhecht](https://twitter.com/axelhecht) and [@david_bryant](https://twitter.com/david_bryant), thanks! :) [#mozweekend](https://twitter.com/hashtag/mozweekend?src=hash) [#Berlin](https://twitter.com/hashtag/Berlin?src=hash) [#gratitude](https://twitter.com/hashtag/gratitude?src=hash) [pic.twitter.com/5GvMfVxPRb](http://t.co/5GvMfVxPRb)
-> 
+>
 > — Stefania Delprete (@physte3) [July 12, 2015](https://twitter.com/physte3/status/620283805673373696)
 <script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script>
 

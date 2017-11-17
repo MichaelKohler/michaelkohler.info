@@ -1,11 +1,12 @@
 ---
 title: MozCoffee Framework - Wie organisiere ich ein Meetup?
 id: 325
+tags:
+  - Mozilla
+  - mozillareps
 categories:
   - Mozilla
-  - MozillaDeutsch
 date: 2015-12-04 23:49:05
-tags:
 ---
 
 <div class="document">

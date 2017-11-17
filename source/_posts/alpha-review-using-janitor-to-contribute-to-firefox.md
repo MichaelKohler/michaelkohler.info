@@ -1,13 +1,13 @@
 ---
 title: Alpha Review - Using Janitor to contribute to Firefox
 id: 384
+tags:
+  - Mozilla
+  - mozillareps
+  - MozillaCH
 categories:
   - Mozilla
-  - MozillaCH
-  - MozillaParticipation
-  - mozillareps
 date: 2016-05-05 15:02:12
-tags:
 ---
 
 At the [Firefox Hackathon in Zurich](https://michaelkohler.info/2016/firefox-hackathon-zurich-april-2016) we used [The Janitor](http://janitor.technology/) to contribute to Firefox. It's important to note that it's still in alpha and invite-only.

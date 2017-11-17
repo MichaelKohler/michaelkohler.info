@@ -1,10 +1,12 @@
 ---
 title: my mozconfig
 id: 101
+tags:
+  - Mozilla
+  - Firefox
 categories:
   - Mozilla
 date: 2010-04-14 17:55:11
-tags:
 ---
 
 As you probably know I have already fixed a few bugs in Mozilla Firefox. For this I need to build Firefox from the source files. Therefore I need a "mozconfig" which sets some general options how to build Firefox. Feel free to copy it if you want to use it too:

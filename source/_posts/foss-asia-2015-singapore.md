@@ -1,14 +1,11 @@
 ---
 title: FOSS Asia 2015 Singapore
 tags:
-  - Asia
-  - Events
-  - Mozilla
-  - Reps
-id: 263
-categories:
   - Mozilla
   - mozillareps
+categories:
+  - Mozilla
+id: 263
 date: 2015-03-16 23:15:59
 ---
 
