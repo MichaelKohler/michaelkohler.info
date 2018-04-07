@@ -64,6 +64,7 @@ Over the recent years we got more and more organized, having regular meetups in 
 Henrik also introduced me to [MozFest](https://mozillafestival.org/) which I attended the first time together with Henrik in 2011. Since then I’ve attended all MozFests and I don’t plan to stop doing that!
 
 [![](https://pbs.twimg.com/media/B0zoOZoCMAMdzZx.jpg)](https://pbs.twimg.com/media/B0zoOZoCMAMdzZx.jpg)
+
 (Mozilla Switzerland reunited at MozFest 2014 - photo credits to Henrik)
 
 The Mozilla Switzerland crew also attended the [MozCamp in Warsaw](https://wiki.mozilla.org/MozCampEU2012) in 2012. This was my second interaction point with the international community which helped me a lot to get around! That’s also the first time I’ve met [Ioana](https://reps.mozilla.org/u/ioana_chiorean/), our lovely Mozilla Reps module owner.
