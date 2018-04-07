@@ -43,17 +43,17 @@ I didn’t work on my first Firefox patch until about a year later. Funny enough
 
 I have to admit, I’ve done probably less coding on Mozilla projects between 2008 and 2013 than I have done in the past 2 months.
 
-(((( IMAGE: commit graph ))))
+(((( TODO: IMAGE: commit graph ))))
 
 # First contact with the community
 In 2009 I added myself to the [Germany/Austria/Switzerland contributors wiki page](https://wiki.mozilla.org/Contributors/Germany_Austria_Switzerland). This is how my real-life interaction with the community started - I’m not counting my Math teacher in high school here - for reasons. Henrik, my dear mentor eversince, was working in Switzerland in 2011, and he checked out the mentioned Wiki page and found me name. He contacted me and asked if I’d like to have a coffee and talk about Mozilla and meet eachother. Of course I was in! We’ve met in Bern on a summer evening, 22nd of August 2011 to be exact. Yes, that was the [Firefox 6 launch party in Bern](https://wiki.mozilla.org/Firefox_6_Release_Party_in_Bern). I even got my first Firefox stickers!
 
-(((( IMAGE: me ))))
+(((( TODO: IMAGE: me ))))
 
 # Mozilla Switzerland
 After this initial meeting, we started to meet more regularly in different places in Switzerland. We organised “MozCoffees” in Bern and Zurich, slowly but steadily growing and building the Mozilla Switzerland community.
 
-(((( IMAGE: https://www.mozilla.org/media/img/contact/pictures/switzerland-01.8e23f4679062.jpg ))))
+[![](https://www.mozilla.org/media/img/contact/pictures/switzerland-01.8e23f4679062.jpg)](https://www.mozilla.org/media/img/contact/pictures/switzerland-01.8e23f4679062.jpg)
 
 Our first event in Switzerland apart from regular MozCoffees was the “Weekend of Code 2012” event. Mozillians from Switzerland shared their knowledge about different areas they are contributing to. I’ve held a [Firefox Source Code talk](https://mkohler.codes/presentations/mozilla_weekend_of_code_2012.html), my first talk I’ve ever given about a Mozilla topic.
 
@@ -61,7 +61,7 @@ Over the recent years we got more and more organized, having regular meetups in 
 
 Henrik also introduced me to [MozFest](https://mozillafestival.org/) which I attended the first time together with Henrik in 2011. Since then I’ve attended all MozFests and I don’t plan to stop doing that!
 
-((( IMAGE: https://twitter.com/hmitsch/status/526050601499893760 - 2014!!! ))
+((( TODO: IMAGE: https://twitter.com/hmitsch/status/526050601499893760 - 2014!!! ))
 
 The Mozilla Switzerland crew also attended the [MozCamp in Warsaw](https://wiki.mozilla.org/MozCampEU2012) in 2012. This was my second interaction point with the international community which helped me a lot to get around! That’s also the first time I’ve met [Ioana](https://reps.mozilla.org/u/ioana_chiorean/), our lovely Mozilla Reps module owner.
 
@@ -70,20 +70,20 @@ As Henrik left his job in Switzerland he suggested me joining the [Reps program]
 
 I think my contributions through the Reps program would deserve a completely independent blog post, so I’m not gonna go into details here. You can find all 44 pages of reports since then on the [Reps portal](https://reps.mozilla.org/reports/rep/michaelkohler/). Have fun! I was also featured as [“Rep of the Month” in March 2014](https://twitter.com/hmitsch/status/441253990211538946), I was really happy about that!
 
-((( MOZILLIAN VIDEO: https://www.youtube.com/watch?v=LuyBGkbzTjs ))))
+((( TODO: MOZILLIAN VIDEO: https://www.youtube.com/watch?v=LuyBGkbzTjs ))))
 
 # Trying to build the German speaking community
 A big part of my Reps life was devoted to the German-speaking community. This includes Germany, Austria and parts of Switzerland. I was invited to the [“Community Reboot”](http://brian.kingsonline.net/talk/2013/01/german-community-reboot/) event in January 2013 which marked the [start](https://www.soeren-hentzschel.at/mozilla/ein-neuanfang-fur-die-deutschsprachige-mozilla-community/) of my little project to nurture the German-speaking community and bring it closer together. We did several experiments with the regular [online meetings of the community](https://wiki.mozilla.org/De/Meetings) and also introduced regular video meetings.
 
-((( IMAGE: https://twitter.com/KohlerSolutions/status/474270955456696320 )))
+((( TODO: IMAGE: https://twitter.com/KohlerSolutions/status/474270955456696320 )))
 
-((( IMAGE: https://twitter.com/hmitsch/status/432144198310326272 / https://twitter.com/hmitsch/status/432181148165632000 )))
+((( TODO: IMAGE: https://twitter.com/hmitsch/status/432144198310326272 / https://twitter.com/hmitsch/status/432181148165632000 )))
 
 I’ve organized a [followup real-life meeting in February 2014](https://reps.mozilla.org/e/german-speaking-community-meeting-2014/) to bring the community together and talk about everything community related. In 2015 we’ve organized the [first Mozilla Tech Weekend](https://reps.mozilla.org/e/mozilla-tech-weekend-berlin/) which gave a good initial boost to the Berlin community.  A big shoutout goes to Florian Merz for talking it into his own hands to build a community in Berlin. Well done!
 
 All my efforts lasted until around early 2016, when I decided that the whole project doesn’t meet my high expectations and I didn’t see any progress within the German-speaking community for quite some time. There were other reasons I’d like not to mention here, that’s why I’m keeping this section of the blog post quite small. All in all, it was a good opportunity for me to build skills and capabilities and I think it’s always good to learn from unsuccessful projects. I definitely did!
 
-((( IMAGE: monument picture ))))
+((( TODO: IMAGE: monument picture ))))
 
 # The Firefox OS era
 When I first heard about Firefox OS I was excited. At one of the Mozilla Switzerland meetups Henrik tried to get it running on a Samsung Galaxy and we had a lot of fun. This was before the Geeksphone devices came out. I remember the day when I ordered my first Firefox OS phone so I can play around with it. Turned out, I very quickly switched to it as my primary phone and until it’s end always used a Firefox OS phone as primary phone. Sometime with experimental builds on it, but that was nothing new as I was using Firefox Nightly as my main browser as well (same people might say I like to live dangerously..). Dogfooding (or as we called it, Foxfooding) was very important to provide a stable and working platform and I didn’t see another way apart from using it daily. Up to now I’m missing the “switch apps by swiping from the very edge of the phone” feature, that was amazing!
@@ -101,20 +101,20 @@ You can find all my talks I’ve ever given [on my website](https://mkohler.code
 
 ![](https://pbs.twimg.com/media/BixjpuMIIAA6um6.jpg:large)
 
-((( IMAGE: https://twitter.com/KohlerSolutions/status/477746758475603969 )))
+((( TODO: IMAGE: https://twitter.com/KohlerSolutions/status/477746758475603969 )))
 
-Firefox OS Promotion Cologne 2014: https://wiki.mozilla.org/De/Firefox_OS_Promotion_Cologne_2014
+((( TODO: Write part about Firefox OS Promotion Cologne 2014: https://wiki.mozilla.org/De/Firefox_OS_Promotion_Cologne_2014 )))
 
 I was involved with Firefox OS until the [decision to pivot to Connected Devices](https://blog.mozilla.org/blog/2015/12/09/firefox-os-pivot-to-connected-devices/). After that I was more focused on Reps specific tasks.
 
 # Reps Governance & Participation
 Thanks to my involvement in the Reps program on a strategic level and my interest in continuing this, I’ve applied to the [Reps Council elections in 2015](https://blog.mozilla.org/mozillareps/2015/05/08/council-elections-know-your-candidates/) in May 2015. This allowed me to shape the conversation and strategy about the Reps program on a more impactful level. This included being invited to several [Mozilla All Hands](https://wiki.mozilla.org/All_Hands) where we spent a week discussing everything about Participation. Some people might not understand why I would take a week off my work to go “work” for Mozilla in my free time, but well, that’s who I am.
 
-(((( IMAGE: https://mkohler.codes/assets/images/me.jpg ))))
+[![](https://mkohler.codes/assets/images/me.jpg)](https://mkohler.codes/assets/images/me.jpg)
 
 As my first term came to an end, I like having these conversations so much that I [decided to apply for another term](https://discourse.mozilla.org/t/council-elections-september-2016-nominee-q-a/10650). Crazy, I know. We went through the whole “Reps Next” project and introduced a few improvements to the program which were overdue for a long time. This term lasted until November 2017. You might ask why two terms amount to about one and a half year? We had a little delay on the second elections and therefore were not fully on schedule anymore. Happens :)
 
-(((( IMAGE: https://mkohler.codes/assets/images/reps_group.jpg )))
+[![](https://mkohler.codes/assets/images/reps_group.jpg)](https://mkohler.codes/assets/images/reps_group.jpg)
 
 After my second term on Council I decided to accept Ioana’s proposal to become a Peer. This was officially announced in December 2017. I hope to bring the same valuable inputs to strategic discussions about the program to the broader group as I have been in Council. Let’s see what comes next :)
 
