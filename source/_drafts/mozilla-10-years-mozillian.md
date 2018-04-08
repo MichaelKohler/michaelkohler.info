@@ -46,7 +46,7 @@ I have to admit, I’ve done probably less coding on Mozilla projects between 20
 [![](/images/2018/04/commits.png)](/images/2018/04/commits.png)
 
 # First contact with the community
-In 2009 I added myself to the [Germany/Austria/Switzerland contributors wiki page](https://wiki.mozilla.org/Contributors/Germany_Austria_Switzerland). This is how my real-life interaction with the community started - I’m not counting my Math teacher in high school here - for reasons. Henrik, my dear mentor eversince, was working in Switzerland in 2011, and he checked out the mentioned Wiki page and found me name. He contacted me and asked if I’d like to have a coffee and talk about Mozilla and meet eachother. Of course I was in! We’ve met in Bern on a summer evening, 22nd of August 2011 to be exact. Yes, that was the [Firefox 6 launch party in Bern](https://wiki.mozilla.org/Firefox_6_Release_Party_in_Bern). I even got my first Firefox stickers!
+In 2009 I added myself to the [Germany/Austria/Switzerland contributors wiki page](https://wiki.mozilla.org/Contributors/Germany_Austria_Switzerland). This is how my real-life interaction with the community started - I’m not counting my Math teacher in high school here - for reasons. Henrik, my dear mentor eversince, was working in Switzerland in 2011, and he checked out the mentioned Wiki page and found my name. He contacted me and asked if I’d like to have a coffee and talk about Mozilla and meet eachother. Of course I was in! We’ve met in Bern on a summer evening, 22nd of August 2011 to be exact. Yes, that was the [Firefox 6 launch party in Bern](https://wiki.mozilla.org/Firefox_6_Release_Party_in_Bern). I even got my first Firefox stickers!
 
 [![](/images/2018/04/me.jpg)](/images/2018/04/me.jpg)
 
@@ -74,14 +74,12 @@ As Henrik left his job in Switzerland he suggested me joining the [Reps program]
 
 I think my contributions through the Reps program would deserve a completely independent blog post, so I’m not gonna go into details here. You can find all 44 pages of reports since then on the [Reps portal](https://reps.mozilla.org/reports/rep/michaelkohler/). Have fun! I was also featured as [“Rep of the Month” in March 2014](https://twitter.com/hmitsch/status/441253990211538946), I was really happy about that!
 
-((( TODO: MOZILLIAN VIDEO: https://www.youtube.com/watch?v=LuyBGkbzTjs ))))
-
 # Trying to build the German speaking community
 A big part of my Reps life was devoted to the German-speaking community. This includes Germany, Austria and parts of Switzerland. I was invited to the [“Community Reboot”](http://brian.kingsonline.net/talk/2013/01/german-community-reboot/) event in January 2013 which marked the [start](https://www.soeren-hentzschel.at/mozilla/ein-neuanfang-fur-die-deutschsprachige-mozilla-community/) of my little project to nurture the German-speaking community and bring it closer together. We did several experiments with the regular [online meetings of the community](https://wiki.mozilla.org/De/Meetings) and also introduced regular video meetings.
 
 [![](https://pbs.twimg.com/media/BpTy6z6CAAI9Vmm.png)](https://pbs.twimg.com/media/BpTy6z6CAAI9Vmm.png)
 
-I’ve organized a [followup real-life meeting in February 2014](https://reps.mozilla.org/e/german-speaking-community-meeting-2014/) to bring the community together and talk about everything community related. In 2015 we’ve organized the [first Mozilla Tech Weekend](https://reps.mozilla.org/e/mozilla-tech-weekend-berlin/) which gave a good initial boost to the Berlin community.  A big shoutout goes to Florian Merz for talking it into his own hands to build a community in Berlin. Well done!
+I’ve organized a [followup real-life meeting in February 2014](https://reps.mozilla.org/e/german-speaking-community-meeting-2014/) to bring the community together and talk about everything community related. In 2015 we’ve organized the [first Mozilla Tech Weekend](https://reps.mozilla.org/e/mozilla-tech-weekend-berlin/) which gave a good initial boost to the Berlin community.  A big shoutout goes to Florian Merz for talking it into his own hands to build a community in Berlin. Well done! A big "thank you" goes to Axel Hecht as well, as he has been guiding and mentoring me along the way. I think I would have abandoned this project earlier without him.
 
 [![](https://pbs.twimg.com/media/Bf9I28cIUAAKytB.png)](https://pbs.twimg.com/media/Bf9I28cIUAAKytB.png)
 
@@ -109,7 +107,7 @@ You can find all my talks I’ve ever given [on my website](https://mkohler.code
 
 ![](https://pbs.twimg.com/media/BqFMJTqIYAApDza.jpg:large)
 
-((( TODO: Write part about Firefox OS Promotion Cologne 2014: https://wiki.mozilla.org/De/Firefox_OS_Promotion_Cologne_2014 )))
+Once Firefox OS launched in Germany, I was part of the launch team. We did a [promotion event in Cologne](https://wiki.mozilla.org/De/Firefox_OS_Promotion_Cologne_2014) which was something new to me. I was used to "selling" Firefox to people, but there was no actual sale involved. With Firefox OS, potential users had to buy a phone to actually use it. I think we had some traction with the Firefox costume, but not really with Firefox OS. Well, I guess that was to be expected in hindsight.
 
 I was involved with Firefox OS until the [decision to pivot to Connected Devices](https://blog.mozilla.org/blog/2015/12/09/firefox-os-pivot-to-connected-devices/). After that I was more focused on Reps specific tasks.
 
@@ -125,7 +123,10 @@ As my first term came to an end, I like having these conversations so much that 
 After my second term on Council I decided to accept Ioana’s proposal to become a Peer. This was officially announced in December 2017. I hope to bring the same valuable inputs to strategic discussions about the program to the broader group as I have been in Council. Let’s see what comes next :)
 
 # What is next
-I’ve recently moved to Berlin to my amazing girlfriend. This means putting the Swiss community into the very capable hands of other contributors but of course I’ll still be in Switzerland from time to time. I’m sure they will do fine without me :)
+I’ve recently moved to Berlin to my amazing girlfriend.
+((( TODO: write more here.. )))
+
+Moving to Berlin means putting the Swiss community into the very capable hands of other contributors but of course I’ll still be in Switzerland from time to time. I’m sure they will do fine without me :)
 
 In Berlin I’ll for sure be involved with the local community, my first event will probably one of the [bi-weekly Mozilla Nights](https://www.meetup.com/Berlin-Mozilla-Meetup/events/lbbrvnyxgbqb/) here. I’ll slowly gonna get to know how everything works here and then I’ll start to help out to organise events as I did in Switzerland. I’m sure my help is needed and I can provide valuable impact in Berlin as well.
 
