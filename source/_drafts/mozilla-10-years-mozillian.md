@@ -123,8 +123,7 @@ As my first term came to an end, I like having these conversations so much that 
 After my second term on Council I decided to accept Ioana’s proposal to become a Peer. This was officially announced in December 2017. I hope to bring the same valuable inputs to strategic discussions about the program to the broader group as I have been in Council. Let’s see what comes next :)
 
 # What is next
-I’ve recently moved to Berlin to my amazing girlfriend.
-((( TODO: write more here.. )))
+I’ve recently moved to Berlin to my amazing Mozillian girlfriend. As some of you know, I've been together with Konstantina for almost 3 years now and finally was able to make the step to move there as well. This means no longer communiting from Switzerland to Berlin on weekends, which became quite cumbersome over time. I'm very happy I did this and there are no regrets whatsoever. As I'm still employed by NEEO and working remotely, it's definitely an exciting time.
 
 Moving to Berlin means putting the Swiss community into the very capable hands of other contributors but of course I’ll still be in Switzerland from time to time. I’m sure they will do fine without me :)
 
