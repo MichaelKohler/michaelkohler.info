@@ -48,7 +48,7 @@ I have to admit, I’ve done probably less coding on Mozilla projects between 20
 [![](/images/2018/04/commits.png)](/images/2018/04/commits.png)
 
 # First contact with the community
-In 2009 I added myself to the [Germany/Austria/Switzerland contributors wiki page](https://wiki.mozilla.org/Contributors/Germany_Austria_Switzerland). This is how my real-life interaction with the community started - I’m not counting my Math teacher in high school here - for reasons. Henrik, my dear mentor eversince, was working in Switzerland in 2011, and he checked out the mentioned Wiki page and found my name. He contacted me and asked if I’d like to have a coffee and talk about Mozilla and meet eachother. Of course I was in! We’ve met in Bern on a summer evening, 22nd of August 2011 to be exact. Yes, that was the [Firefox 6 launch party in Bern](https://wiki.mozilla.org/Firefox_6_Release_Party_in_Bern). I even got my first Firefox stickers!
+In 2009 I added myself to the [Germany/Austria/Switzerland contributors wiki page](https://wiki.mozilla.org/Contributors/Germany_Austria_Switzerland). This is how my real-life interaction with the community started - I’m not counting my Math teacher in high school here - for reasons. [Henrik](https://reps.mozilla.org/u/hmitsch/), my dear mentor eversince, was working in Switzerland in 2011, and he checked out the mentioned Wiki page and found my name. He contacted me and asked if I’d like to have a coffee and talk about Mozilla and meet eachother. Of course I was in! We’ve met in Bern on a summer evening, 22nd of August 2011 to be exact. Yes, that was the [Firefox 6 launch party in Bern](https://wiki.mozilla.org/Firefox_6_Release_Party_in_Bern). I even got my first Firefox stickers!
 
 [![](/images/2018/04/me.jpg)](/images/2018/04/me.jpg)
 
@@ -81,7 +81,7 @@ A big part of my Reps life was devoted to the German-speaking community. This in
 
 [![](https://pbs.twimg.com/media/BpTy6z6CAAI9Vmm.png)](https://pbs.twimg.com/media/BpTy6z6CAAI9Vmm.png)
 
-I’ve organized a [followup real-life meeting in February 2014](https://reps.mozilla.org/e/german-speaking-community-meeting-2014/) to bring the community together and talk about everything community related. In 2015 we’ve organized the [first Mozilla Tech Weekend](https://reps.mozilla.org/e/mozilla-tech-weekend-berlin/) which gave a good initial boost to the Berlin community.  A big shoutout goes to Florian Merz for talking it into his own hands to build a community in Berlin. Well done! A big "thank you" goes to Axel Hecht as well, as he has been guiding and mentoring me along the way. I think I would have abandoned this project earlier without him.
+I’ve organized a [followup real-life meeting in February 2014](https://reps.mozilla.org/e/german-speaking-community-meeting-2014/) to bring the community together and talk about everything community related. In 2015 we’ve organized the [first Mozilla Tech Weekend](https://reps.mozilla.org/e/mozilla-tech-weekend-berlin/) which gave a good initial boost to the Berlin community.  A big shoutout goes to [Florian Merz](https://reps.mozilla.org/u/flomerz/) for talking it into his own hands to build a community in Berlin. Well done! A big "thank you" goes to [Axel Hecht](https://mozillians.org/en-US/u/Pike/) as well, as he has been guiding and mentoring me along the way. I think I would have abandoned this project earlier without him.
 
 [![](https://pbs.twimg.com/media/Bf9I28cIUAAKytB.png)](https://pbs.twimg.com/media/Bf9I28cIUAAKytB.png)
 
