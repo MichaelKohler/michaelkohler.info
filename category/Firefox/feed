@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Michael Kohler</title>
+  <subtitle>Personal Blog</subtitle>
+  <link href="/category/Firefox/feed" rel="self"/>
+  
+  <link href="https://michaelkohler.info/"/>
+  <updated>2010-04-14T17:55:11.000Z</updated>
+  <id>https://michaelkohler.info/</id>
+  
+  <author>
+    <name>Michael Kohler</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my mozconfig</title>
+    <link href="https://michaelkohler.info/2010/04/14/my-mozconfig/"/>
+    <id>https://michaelkohler.info/2010/04/14/my-mozconfig/</id>
+    <published>2010-04-14T17:55:11.000Z</published>
+    <updated>2010-04-14T17:55:11.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;As you probably know I have already fixed a few bugs in Mozilla Firefox. For this I need to build Firefox from the source files. Therefor
+    
+    </summary>
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/categories/Mozilla/"/>
+    
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/tags/Mozilla/"/>
+    
+      <category term="Firefox" scheme="https://michaelkohler.info/tags/Firefox/"/>
+    
+  </entry>
+  
+</feed>

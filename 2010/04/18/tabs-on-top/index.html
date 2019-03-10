@@ -1,0 +1,166 @@
+<!DOCTYPE HTML>
+<html>
+<head><meta name="generator" content="Hexo 3.8.0">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="google-site-verification" content="">
+  
+  <title>Tabs-on-Top</title>
+  <meta name="author" content="Michael Kohler">
+  <meta name="description" content="Currently there is a discussion about the Tabs-on-Top feature in the mozilla.dev.apps.firefox newsgroup. Tabs-on-tops has been pushed to the nightly (">
+  
+  
+  <meta property="og:title" content="Tabs-on-Top">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta property="og:site_name" content="Michael Kohler">
+  <link href="/apple-touch-icon-precomposed.png" sizes="180x180" rel="apple-touch-icon-precomposed">
+  <link rel="alternate" href="/atom.xml" title="Michael Kohler" type="application/atom+xml">
+  <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/m.min.css">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+</head>
+</html>
+<body>
+  <a id="top"></a>
+  <div id="main">
+    <div class="behind">
+      <a href="/" class="back black-color">
+        <svg class="i-close" viewBox="0 0 32 32" width="22" height="22" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+            <path d="M2 30 L30 2 M30 30 L2 2"></path>
+        </svg>
+      </a>
+      <div class="description">
+        &nbsp;Personal Blog
+      </div>
+    </div>
+    <div class="container">
+      
+
+  <article class="standard post">
+    <div class="title">
+      
+  
+    <h1 class="page-title center">
+        Tabs-on-Top
+    </h1>
+  
+
+
+    </div>
+    <div class="meta center">
+      
+<time datetime="2010-04-18T21:30:48.000Z">
+<svg class="i-calendar" viewbox="0 0 32 32" width="14" height="14" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M2 6 L2 30 30 30 30 6 Z M2 15 L30 15 M7 3 L7 9 M13 3 L13 9 M19 3 L19 9 M25 3 L25 9"/>
+  </svg>
+  &nbsp;
+  2010-04-18
+</time>
+
+
+
+    
+    &nbsp;
+    <svg class="i-tag" viewbox="0 0 32 32" width="14" height="14" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+      <circle cx="24" cy="8" r="2"/>
+      <path d="M2 18 L18 2 30 2 30 14 14 30 Z"/>
+    </svg>
+    &nbsp;
+    <a href="/categories/Mozilla/">Mozilla</a>
+
+
+
+
+    
+    &nbsp;
+    <svg class="i-tag" viewbox="0 0 32 32" width="14" height="14" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+      <circle cx="24" cy="8" r="2"/>
+      <path d="M2 18 L18 2 30 2 30 14 14 30 Z"/>
+    </svg>
+    &nbsp;
+    <a href="/tags/Mozilla/">Mozilla</a>
+
+
+    </div>
+    <hr>
+    <div class="picture-container">
+      
+    </div>
+    <p>Currently there is a discussion about the Tabs-on-Top feature in the <a href="http://groups.google.de/group/mozilla.dev.apps.firefox/browse_thread/thread/29849697fc8f53f5#" target="_blank" rel="noopener">mozilla.dev.apps.firefox newsgroup</a>. Tabs-on-tops has been <a href="http://hg.mozilla.org/mozilla-central/log?rev=544815" target="_blank" rel="noopener">pushed</a> to the nightly (trunk) development branch of firefox on April 6th 2010. Pretty much every new feature introduced to Firefox leads to a more or less active discussion but this time it is very important to find the right decision since this is a major change in the front UI. Of course there will never be an agreement because GUIs are still a matter of subjective. Now the FF UI design team needs to find a decision which is best for most of the users.</p>
+<p>Firefox is currently used by millions of users. This means a lot of people who need to be satisfied. Otherwise they will just think about changing the browser. But wait, is there a good browser which has the option to place tabs on the bottom of the location bar? Yes, it is Firefox. Of course there will be an option to place tabs on the bottom. It is just about where to place the tabs by <em>default</em>.</p>
+<p>It is well known that good design is getting more and more important (e.g. the iPhone or iPad design). Unfortunately a lot of people think that good visual design (good looking interfaces) are the best ones. This is in most cases absolutely false. The best GUI is the one that allows the user to do the needed actions in the most comfortable way. A browser is still just for surfing the web (at least in most cases) and not for looking at something beautiful.</p>
+<p>Coming back to the actual discussion I think it is difficult to get to a good decision. There are pros and cons which I will explain now.</p>
+<p><strong>Pros:</strong><br>Often tabs indicate that the content will change. Already with tabs on bottom the content of the tab changes when clicking on another tab. This will not change. But have you ever thought about other things that change when focusing another tab? The first thing that comes to mind is the location bar. Sure, that was logical, wasn’t it? The other thing are the forward/back-arrows. The location bar indicates the URL you are currently on, the arrows represent the history. Even though you don’t see the change of the arrows right away, their content changes. In my opinion it would be more intuitive having the tabs on top (even though a few things are constant like the home button).</p>
+<p><a href="http://www.webdesign-portal.net/wp-content/uploads/2010/04/bookmarksbar_on_tablevel.png" target="_blank" rel="noopener"><img src="http://www.webdesign-portal.net/wp-content/uploads/2010/04/bookmarksbar_on_tablevel-1024x211.png" alt="" title="bookmarksbar_on_tablevel"></a></p>
+<p>Wait, the bookmarks toolbar doesn’t change. So why should it be below the location bar? It would be way better if it was right on top of the tabs (i.e. right below the window title bar). So just move it on top, so the bookmarks toolbar doesn’t disturb the user’s view.</p>
+<p><a href="http://www.webdesign-portal.net/wp-content/uploads/2010/04/bookmarksbar_on_browserlevel.png" target="_blank" rel="noopener"><img src="http://www.webdesign-portal.net/wp-content/uploads/2010/04/bookmarksbar_on_browserlevel-1024x211.png" alt="" title="bookmarksbar_on_browserlevel"></a></p>
+<p>(thanks to <a href="http://blog.mozilla.com/faaborg/" target="_blank" rel="noopener">Alex Faaborg</a> for these <a href="http://people.mozilla.com/~faaborg/files/daf/bookmarksBarLevel.png" target="_blank" rel="noopener">mockups</a>)</p>
+<p>An important fact in user-centered UI design has always been <a href="http://en.wikipedia.org/wiki/Fitts%27s_law" target="_blank" rel="noopener">Fitt’s Law</a>. I don’t want to explain it here, but one aspect of it is really important: It is easier to click on an element which is located at the top of the screen than on one that is somewhere in the middle of the screen. This is because you can move your cursor straight to the top and it automatically stops there and then you can move it a few pixels down and you are right over the element to click on. Unfortunately nowadays the screen resolutions are very high and a lot of users don’t have the windows maximized. Due to this fact Fitt’s Law doesn’t work here anymore.</p>
+<p>Further it is better to have the tabs on top because they do not disturb the vision of the user when watching away from the location bar to the tab’s content. Every feature has its disadvantages, though.</p>
+<p><strong>Contras:</strong><br>As mentioned above a lot of users don’t maximize their windows, so Fitt’s Law doesn’t work. I cannot mention this enough times: Fitt’s Law is still important! It is probably better to place the tabs right on top of the content, like that there is at least less way to move the cursor.</p>
+<p>A question I always ask myself is why it would need a change. The most users know the current UI design, why should they get used to another layout? Sure if it was more comfortable it wouldn’t be a problem. If a user has always used Google Chrome and now decided to use Firefox, he would probably want to have the tabs on top because he is used to that. But honestly, do we really want to copy Google Chrome? Is its design really that well done? In my opinion there is absolutely no reasons to do so. An unified browser design would be very indeed, but unfortunately that is something that will never be achieved..</p>
+<p>Another problem with tabs-on-top would be the menu bar. I don’t think it would be good to have the menu bar and the tabs this close together. It would make it much easier to click on a top instead of a menuitem and that is definitely not something the users want. Sure, this will not be a problem anymore when the “Firefox App Button” will be introduced in a future version of Firefox.</p>
+<p>In conclusion I think the tabs-on-top feature is very nice-to-have, but as always there are disadvantages, too. Some UX (user experience) experts need to weigh the facts and decide. Either way (tabs on top/bottom) there will be an option to change the layout. In my opinion the tabs should be placed at the bottom where they are now. Having them at the top by default has too many disadvantages.. Please don’t forget one thing: eventually the majority of the users needs to be satisfied.</p>
+
+
+  </article>
+  
+    <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
+  </script>
+  <div class="busuanzi center">
+    page PV:&nbsp;<span id="busuanzi_value_page_pv"></span>&nbsp;・&nbsp;
+    site PV:&nbsp;<span id="busuanzi_value_site_pv"></span>&nbsp;・&nbsp;
+    site UV:&nbsp;<span id="busuanzi_value_site_uv"></span>
+  </div>
+
+
+
+
+    </div>
+  </div>
+  <footer class="page-footer"><div class="clearfix">
+</div>
+<div class="right-foot container">
+    <div class="firstrow">
+        <a href="#top" target="_self">
+        <svg class="i-caret-right" viewbox="0 0 32 32" width="24" height="24" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+            <path d="M10 30 L26 16 10 2 Z"/>
+        </svg>
+        </a>
+        
+    </div>
+    <div class="secondrow">
+        <a href="">
+        
+        </a>
+    </div>
+</div>
+<div class="clearfix">
+</div>
+</footer>
+  <script src="https://cdn.bootcss.com/jquery/2.2.1/jquery.min.js"></script>
+<script src="/js/search.min.js"></script>
+<script type="text/javascript">
+
+// disqus scripts
+
+
+// dropdown scripts
+$(".dropdown").click(function(event) {
+  var current = $(this);
+  event.stopPropagation();
+  $(current).children(".dropdown-content")[($(current).children(".dropdown-content").hasClass("open"))?'removeClass':'addClass']("open")
+});
+$(document).click(function(){
+    $(".dropdown-content").removeClass("open");
+})
+
+var path = "/search.xml";
+searchFunc(path, 'local-search-input', 'local-search-result');
+
+</script>
+
+</body>
+</html>

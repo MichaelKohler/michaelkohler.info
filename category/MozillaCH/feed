@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Michael Kohler</title>
+  <subtitle>Personal Blog</subtitle>
+  <link href="/category/MozillaCH/feed" rel="self"/>
+  
+  <link href="https://michaelkohler.info/"/>
+  <updated>2017-07-24T22:49:55.000Z</updated>
+  <id>https://michaelkohler.info/</id>
+  
+  <author>
+    <name>Michael Kohler</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>WebVR/A-Frame Hackathon in Lausanne</title>
+    <link href="https://michaelkohler.info/2017/07/24/webvr-aframe-hackathon-in-lausanne/"/>
+    <id>https://michaelkohler.info/2017/07/24/webvr-aframe-hackathon-in-lausanne/</id>
+    <published>2017-07-24T22:49:55.000Z</published>
+    <updated>2017-07-24T22:49:55.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Last Saturday the &lt;a href=&quot;http://mozilla.ch/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Mozilla Switzerland community&lt;/a&gt;, together with &lt;a href=&quot;h
+    
+    </summary>
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/categories/Mozilla/"/>
+    
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/tags/Mozilla/"/>
+    
+      <category term="mozillareps" scheme="https://michaelkohler.info/tags/mozillareps/"/>
+    
+      <category term="MozillaCH" scheme="https://michaelkohler.info/tags/MozillaCH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mozilla Switzerland Community Meetup 2017</title>
+    <link href="https://michaelkohler.info/2017/01/28/mozilla-switzerland-community-meetup-2017/"/>
+    <id>https://michaelkohler.info/2017/01/28/mozilla-switzerland-community-meetup-2017/</id>
+    <published>2017-01-28T21:55:40.000Z</published>
+    <updated>2017-01-28T21:55:40.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;On the 28th of January we, the Mozilla Switzerland, community held another community meetup to organize ourselves for the next few months
+    
+    </summary>
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/categories/Mozilla/"/>
+    
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/tags/Mozilla/"/>
+    
+      <category term="mozillareps" scheme="https://michaelkohler.info/tags/mozillareps/"/>
+    
+      <category term="MozillaCH" scheme="https://michaelkohler.info/tags/MozillaCH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mozilla Switzerland - Community Meetup June 2016</title>
+    <link href="https://michaelkohler.info/2016/09/06/mozilla-switzerland-community-meetup-june-2016/"/>
+    <id>https://michaelkohler.info/2016/09/06/mozilla-switzerland-community-meetup-june-2016/</id>
+    <published>2016-09-06T21:05:47.000Z</published>
+    <updated>2016-09-06T21:05:47.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;On June 20th the Swiss Mozillians met in Zurich to discuss the second half of the year. The goal was to come up with objectives for &lt;a hr
+    
+    </summary>
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/categories/Mozilla/"/>
+    
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/tags/Mozilla/"/>
+    
+      <category term="mozillareps" scheme="https://michaelkohler.info/tags/mozillareps/"/>
+    
+      <category term="MozillaCH" scheme="https://michaelkohler.info/tags/MozillaCH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Alpha Review - Using Janitor to contribute to Firefox</title>
+    <link href="https://michaelkohler.info/2016/05/05/alpha-review-using-janitor-to-contribute-to-firefox/"/>
+    <id>https://michaelkohler.info/2016/05/05/alpha-review-using-janitor-to-contribute-to-firefox/</id>
+    <published>2016-05-05T15:02:12.000Z</published>
+    <updated>2016-05-05T15:02:12.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;At the &lt;a href=&quot;https://michaelkohler.info/2016/firefox-hackathon-zurich-april-2016&quot;&gt;Firefox Hackathon in Zurich&lt;/a&gt; we used &lt;a href=&quot;htt
+    
+    </summary>
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/categories/Mozilla/"/>
+    
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/tags/Mozilla/"/>
+    
+      <category term="mozillareps" scheme="https://michaelkohler.info/tags/mozillareps/"/>
+    
+      <category term="MozillaCH" scheme="https://michaelkohler.info/tags/MozillaCH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Firefox Hackathon Zurich April 2016</title>
+    <link href="https://michaelkohler.info/2016/05/05/firefox-hackathon-zurich-april-2016/"/>
+    <id>https://michaelkohler.info/2016/05/05/firefox-hackathon-zurich-april-2016/</id>
+    <published>2016-05-05T14:31:47.000Z</published>
+    <updated>2016-05-05T14:31:47.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Last Saturday we’ve held a &lt;a href=&quot;https://reps.mozilla.org/e/firefox-hackathon-zurich-april-2015/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Firef
+    
+    </summary>
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/categories/Mozilla/"/>
+    
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/tags/Mozilla/"/>
+    
+      <category term="mozillareps" scheme="https://michaelkohler.info/tags/mozillareps/"/>
+    
+      <category term="MozillaCH" scheme="https://michaelkohler.info/tags/MozillaCH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mozilla Switzerland IoT Hackathon in Lausanne</title>
+    <link href="https://michaelkohler.info/2016/04/24/mozilla-switzerland-iot-hackathon-in-lausanne/"/>
+    <id>https://michaelkohler.info/2016/04/24/mozilla-switzerland-iot-hackathon-in-lausanne/</id>
+    <published>2016-04-24T13:04:27.000Z</published>
+    <updated>2016-04-24T13:04:27.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;On April 2nd 2016 we held a small &lt;a href=&quot;http://www.meetup.com/Mozilla-Meetup-Romandie/events/229797456/&quot; target=&quot;_blank&quot; rel=&quot;noopener
+    
+    </summary>
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/categories/Mozilla/"/>
+    
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/tags/Mozilla/"/>
+    
+      <category term="mozillareps" scheme="https://michaelkohler.info/tags/mozillareps/"/>
+    
+      <category term="MozillaCH" scheme="https://michaelkohler.info/tags/MozillaCH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mozilla Switzerland Goals H1 2016</title>
+    <link href="https://michaelkohler.info/2016/02/07/mozilla-switzerland-goals-h1-2016/"/>
+    <id>https://michaelkohler.info/2016/02/07/mozilla-switzerland-goals-h1-2016/</id>
+    <published>2016-02-07T15:43:26.000Z</published>
+    <updated>2016-02-07T15:43:26.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Back in November we had a Community Meetup. The goal was to get a current status on the Community and define plans and goals for 2016. To
+    
+    </summary>
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/categories/Mozilla/"/>
+    
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/tags/Mozilla/"/>
+    
+      <category term="mozillareps" scheme="https://michaelkohler.info/tags/mozillareps/"/>
+    
+      <category term="MozillaCH" scheme="https://michaelkohler.info/tags/MozillaCH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Million Mask March Zurich - 08.11.2014</title>
+    <link href="https://michaelkohler.info/2014/11/20/million-mask-march-zurich-08-11-2014/"/>
+    <id>https://michaelkohler.info/2014/11/20/million-mask-march-zurich-08-11-2014/</id>
+    <published>2014-11-20T21:35:03.000Z</published>
+    <updated>2014-11-20T21:35:03.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;On the 8th of November (yes, 2 days before #fx10), we met in Zurich to provide a tea booth for protesters. There is a new law coming up i
+    
+    </summary>
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/categories/Mozilla/"/>
+    
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/tags/Mozilla/"/>
+    
+      <category term="mozillareps" scheme="https://michaelkohler.info/tags/mozillareps/"/>
+    
+      <category term="MozillaCH" scheme="https://michaelkohler.info/tags/MozillaCH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>OKCon 2013 in Geneva</title>
+    <link href="https://michaelkohler.info/2013/11/03/okcon-2013-in-geneva/"/>
+    <id>https://michaelkohler.info/2013/11/03/okcon-2013-in-geneva/</id>
+    <published>2013-11-03T12:39:52.000Z</published>
+    <updated>2013-11-03T12:39:52.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Mid of September I attended the &lt;a href=&quot;http://okcon.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Open Knowledge Conference 2013&lt;/a&gt; in Geneva. 
+    
+    </summary>
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/categories/Mozilla/"/>
+    
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/tags/Mozilla/"/>
+    
+      <category term="mozillareps" scheme="https://michaelkohler.info/tags/mozillareps/"/>
+    
+      <category term="MozillaCH" scheme="https://michaelkohler.info/tags/MozillaCH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Firefox OS App Days - combined with Webmaker</title>
+    <link href="https://michaelkohler.info/2013/06/23/firefox-os-app-days-combined-with-webmaker/"/>
+    <id>https://michaelkohler.info/2013/06/23/firefox-os-app-days-combined-with-webmaker/</id>
+    <published>2013-06-23T23:20:59.000Z</published>
+    <updated>2013-06-23T23:20:59.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;In late May 2013 we (Mozilla Switzerland) organized a Firefox OS App Day in Zurich. At this event we wanted to give local developers a ch
+    
+    </summary>
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/categories/Mozilla/"/>
+    
+    
+      <category term="Mozilla" scheme="https://michaelkohler.info/tags/Mozilla/"/>
+    
+      <category term="mozillareps" scheme="https://michaelkohler.info/tags/mozillareps/"/>
+    
+      <category term="MozillaCH" scheme="https://michaelkohler.info/tags/MozillaCH/"/>
+    
+  </entry>
+  
+</feed>

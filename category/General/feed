@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Michael Kohler</title>
+  <subtitle>Personal Blog</subtitle>
+  <link href="/category/General/feed" rel="self"/>
+  
+  <link href="https://michaelkohler.info/"/>
+  <updated>2010-05-30T20:09:58.000Z</updated>
+  <id>https://michaelkohler.info/</id>
+  
+  <author>
+    <name>Michael Kohler</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>BackupSoft</title>
+    <link href="https://michaelkohler.info/2010/05/30/backupsoft/"/>
+    <id>https://michaelkohler.info/2010/05/30/backupsoft/</id>
+    <published>2010-05-30T20:09:58.000Z</published>
+    <updated>2010-05-30T20:09:58.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Our backup application “BackupSoft” is now officially available for download. You can download it on the “Downloads” page of this website
+    
+    </summary>
+    
+      <category term="General" scheme="https://michaelkohler.info/categories/General/"/>
+    
+    
+      <category term="General" scheme="https://michaelkohler.info/tags/General/"/>
+    
+  </entry>
+  
+</feed>

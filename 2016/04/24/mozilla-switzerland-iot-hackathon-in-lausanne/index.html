@@ -1,0 +1,175 @@
+<!DOCTYPE HTML>
+<html>
+<head><meta name="generator" content="Hexo 3.8.0">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="google-site-verification" content="">
+  
+  <title>Mozilla Switzerland IoT Hackathon in Lausanne</title>
+  <meta name="author" content="Michael Kohler">
+  <meta name="description" content="On April 2nd 2016 we held a small IoT Hackathon in Lausanne to brainstorm about the Web and IoT. This was aligned with the new direction that Mozilla ">
+  
+  
+  <meta property="og:title" content="Mozilla Switzerland IoT Hackathon in Lausanne">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta property="og:site_name" content="Michael Kohler">
+  <link href="/apple-touch-icon-precomposed.png" sizes="180x180" rel="apple-touch-icon-precomposed">
+  <link rel="alternate" href="/atom.xml" title="Michael Kohler" type="application/atom+xml">
+  <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/m.min.css">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+</head>
+</html>
+<body>
+  <a id="top"></a>
+  <div id="main">
+    <div class="behind">
+      <a href="/" class="back black-color">
+        <svg class="i-close" viewBox="0 0 32 32" width="22" height="22" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+            <path d="M2 30 L30 2 M30 30 L2 2"></path>
+        </svg>
+      </a>
+      <div class="description">
+        &nbsp;Personal Blog
+      </div>
+    </div>
+    <div class="container">
+      
+
+  <article class="standard post">
+    <div class="title">
+      
+  
+    <h1 class="page-title center">
+        Mozilla Switzerland IoT Hackathon in Lausanne
+    </h1>
+  
+
+
+    </div>
+    <div class="meta center">
+      
+<time datetime="2016-04-24T13:04:27.000Z">
+<svg class="i-calendar" viewbox="0 0 32 32" width="14" height="14" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M2 6 L2 30 30 30 30 6 Z M2 15 L30 15 M7 3 L7 9 M13 3 L13 9 M19 3 L19 9 M25 3 L25 9"/>
+  </svg>
+  &nbsp;
+  2016-04-24
+</time>
+
+
+
+    
+    &nbsp;
+    <svg class="i-tag" viewbox="0 0 32 32" width="14" height="14" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+      <circle cx="24" cy="8" r="2"/>
+      <path d="M2 18 L18 2 30 2 30 14 14 30 Z"/>
+    </svg>
+    &nbsp;
+    <a href="/categories/Mozilla/">Mozilla</a>
+
+
+
+
+    
+    &nbsp;
+    <svg class="i-tag" viewbox="0 0 32 32" width="14" height="14" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+      <circle cx="24" cy="8" r="2"/>
+      <path d="M2 18 L18 2 30 2 30 14 14 30 Z"/>
+    </svg>
+    &nbsp;
+    <a href="/tags/Mozilla/">Mozilla</a>·<a href="/tags/mozillareps/">mozillareps</a>·<a href="/tags/MozillaCH/">MozillaCH</a>
+
+
+    </div>
+    <hr>
+    <div class="picture-container">
+      
+    </div>
+    <p>On April 2nd 2016 we held a small <a href="http://www.meetup.com/Mozilla-Meetup-Romandie/events/229797456/" target="_blank" rel="noopener">IoT Hackathon in Lausanne</a> to brainstorm about the Web and IoT. This was aligned with the <a href="https://blog.mozilla.org/futurereleases/2016/03/01/update-on-connected-devices/" target="_blank" rel="noopener">new direction that Mozilla is taking on</a>.</p>
+<p><strong>Preparation</strong><br>We started to organize the <a href="https://github.com/mozillach/participation/issues/12" target="_blank" rel="noopener">Hackathon on Github</a>, so everyone can participate. Geoffroy was really helpful to organize the space for it at <a href="https://www.liip.ch" target="_blank" rel="noopener">Liip.ch</a>. Thanks a lot to them, without them organizing our events would be way harder!</p>
+<p><strong>The Hackathon</strong><br>We expected more people to come, but as mentioned above, this is our first self-organized event in the French speaking part of Switzerland. Nevertheless we were four persons with an interest in hacking something together.</p>
+<video src="https://fat.gfycat.com/SereneSnappyAuk.webm" controls="controls" width="300" height="150"></video>
+
+<p>Geoffroy and Paul started to have a look at <a href="https://github.com/mozilla/vaani.iot" target="_blank" rel="noopener">Vaani.iot</a>, one of the projects that Mozilla is currently pushing on. They started to build it on their laptops, unfortunately the Vaani documentation is not good enough yet to see the full picture and what you could do with it. We’re planning to <a href="https://github.com/mozillach/participation/issues/37" target="_blank" rel="noopener">send some feedback</a> regarding that to the Vaani team.</p>
+<p>In the meantime Martin and I set up my Raspberry Pi and started to write a small script together that reads out the temperature from one of the sensors. Once we’ve done that, I created a small API to have the temperature returned in JSON format.</p>
+<p><img src="https://i.imgur.com/blfd7wH.jpg" alt=""></p>
+<p>At this point, we decided we wanted to connect those two pieces and <a href="https://github.com/mozillach/mozilla-iot-hackaton" target="_blank" rel="noopener">create a Web app</a> to read out the temperature and announce it through voice. Since we couldn’t get Vaani working, we decided to use the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API" target="_blank" rel="noopener">WebSpeech API</a> for this. The voice output part is available in Firefox and Chrome right now, therefore we could achieve this goal without using any non-standard APIs. After that Geoffroy played around with the voice input feature of this API. This is currently only working in Chrome, but there is a <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1248897" target="_blank" rel="noopener">bug to implement it in Firefox</a> as well. In the spirit of the open web, we decided to ignore the fact that we need to use Chrome for now, and create a feature that is built on Web standards that are on track to standardization.</p>
+<p><img src="https://i.imgur.com/1ZWxMcC.jpg" alt=""></p>
+<p>After all, we could achieve something together and definitely had some good learnings during that.</p>
+<p><strong>Lessions learned</strong></p>
+<ul>
+<li>Organizing a hackathon for the first time in a new city is not easy</li>
+<li>We probably need to establish an “evening-only” meetup series first, so we can attract participants that identify with us</li>
+<li>We could use this opportunity to document the Liip space in Lausanne for future events on our <a href="https://wiki.mozilla.org/Switzerland/Events" target="_blank" rel="noopener">Events page on the wiki</a></li>
+<li>Not all projects are well documented, we need to work on this!<br><strong>After the Hackathon</strong></li>
+</ul>
+<p>Since I needed to do a project for my studies that involves hardware as well, I could take the opportunity and take the sensors for my project.</p>
+<p><img src="https://i.imgur.com/tP4tcFC.png" alt=""></p>
+<p>You can find the Source Code on the <a href="https://github.com/mozillach/raspberry-temp-motion" target="_blank" rel="noopener">MozillaCH github organization</a>. It currently regularly reads out the two temperature sensors and checks if there is any movement registered by the movement sensor. If the temperature difference is too high it sends an alarm to the NodeJS backend. The same goes for the situation where it detects movement. I see this as a first step into my own take on a smart home, it would need a lot of work and more sensors to be completely useful though.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+  </article>
+  
+    <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
+  </script>
+  <div class="busuanzi center">
+    page PV:&nbsp;<span id="busuanzi_value_page_pv"></span>&nbsp;・&nbsp;
+    site PV:&nbsp;<span id="busuanzi_value_site_pv"></span>&nbsp;・&nbsp;
+    site UV:&nbsp;<span id="busuanzi_value_site_uv"></span>
+  </div>
+
+
+
+
+    </div>
+  </div>
+  <footer class="page-footer"><div class="clearfix">
+</div>
+<div class="right-foot container">
+    <div class="firstrow">
+        <a href="#top" target="_self">
+        <svg class="i-caret-right" viewbox="0 0 32 32" width="24" height="24" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+            <path d="M10 30 L26 16 10 2 Z"/>
+        </svg>
+        </a>
+        
+    </div>
+    <div class="secondrow">
+        <a href="">
+        
+        </a>
+    </div>
+</div>
+<div class="clearfix">
+</div>
+</footer>
+  <script src="https://cdn.bootcss.com/jquery/2.2.1/jquery.min.js"></script>
+<script src="/js/search.min.js"></script>
+<script type="text/javascript">
+
+// disqus scripts
+
+
+// dropdown scripts
+$(".dropdown").click(function(event) {
+  var current = $(this);
+  event.stopPropagation();
+  $(current).children(".dropdown-content")[($(current).children(".dropdown-content").hasClass("open"))?'removeClass':'addClass']("open")
+});
+$(document).click(function(){
+    $(".dropdown-content").removeClass("open");
+})
+
+var path = "/search.xml";
+searchFunc(path, 'local-search-input', 'local-search-result');
+
+</script>
+
+</body>
+</html>
