@@ -19,6 +19,7 @@ deploy:
   local-dir: public/
   on:
     branch: master
+  fqdn: michaelkohler.info
 
 notifications:
   email:
