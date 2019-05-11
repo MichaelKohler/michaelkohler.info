@@ -118,8 +118,7 @@ The">
 
 ✖ 4 problems (2 errors, 2 warnings)
 
-0:02.85 Finished eslint. Errors encountered.
-</code></pre><p>As you might see from the input, running this in the Janitor environment results in not finding the Mozilla-specific rules. The reason here is that the eslint npm package is installed globally. Globally installed eslint can’t find the locally installed mozilla-eslint-plugin. In my opinion the easiest fix would be to not install it globally, just within the firefox directory (running “./mach eslint –setup”) while spinning up the instance should be enough here.</p>
+0:02.85 Finished eslint. Errors encountered.</code></pre><p>As you might see from the input, running this in the Janitor environment results in not finding the Mozilla-specific rules. The reason here is that the eslint npm package is installed globally. Globally installed eslint can’t find the locally installed mozilla-eslint-plugin. In my opinion the easiest fix would be to not install it globally, just within the firefox directory (running “./mach eslint –setup”) while spinning up the instance should be enough here.</p>
 <p>We could circumvent this problem by changing the global npm prefix and then running it with “/new/path/eslint …” so it doesn’t call the other one. In hindsight, we could just have installed it to the directory and then call it through node_modules.</p>
 <p><strong>Update, May 5, 15:09:</strong> Jan has has fixed this plugin issue :)</p>
 <p><strong>Creating a patch</strong></p>
