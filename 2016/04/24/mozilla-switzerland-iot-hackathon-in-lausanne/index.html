@@ -1,27 +1,27 @@
 <!DOCTYPE HTML>
 <html>
-<head><meta name="generator" content="Hexo 3.9.0">
+<head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="google-site-verification" content>
+  <meta name="google-site-verification" content="" />
   
   <title>Mozilla Switzerland IoT Hackathon in Lausanne</title>
   <meta name="author" content="Michael Kohler">
   <meta name="description" content="On April 2nd 2016 we held a small IoT Hackathon in Lausanne to brainstorm about the Web and IoT. This was aligned with the new direction that Mozilla ">
   
   
-  <meta property="og:title" content="Mozilla Switzerland IoT Hackathon in Lausanne">
+  <meta property="og:title" content="Mozilla Switzerland IoT Hackathon in Lausanne"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta property="og:site_name" content="Michael Kohler">
+  <meta property="og:site_name" content="Michael Kohler"/>
   <link href="/apple-touch-icon-precomposed.png" sizes="180x180" rel="apple-touch-icon-precomposed">
   <link rel="alternate" href="/atom.xml" title="Michael Kohler" type="application/atom+xml">
   <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/m.min.css">
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
 </head>
-</html>
+
 <body>
   <a id="top"></a>
   <div id="main">
@@ -94,9 +94,9 @@
 <p><video src="https://fat.gfycat.com/SereneSnappyAuk.webm" controls="controls" width="300" height="150"></video></p>
 <p>Geoffroy and Paul started to have a look at <a href="https://github.com/mozilla/vaani.iot" target="_blank" rel="noopener">Vaani.iot</a>, one of the projects that Mozilla is currently pushing on. They started to build it on their laptops, unfortunately the Vaani documentation is not good enough yet to see the full picture and what you could do with it. We’re planning to <a href="https://github.com/mozillach/participation/issues/37" target="_blank" rel="noopener">send some feedback</a> regarding that to the Vaani team.</p>
 <p>In the meantime Martin and I set up my Raspberry Pi and started to write a small script together that reads out the temperature from one of the sensors. Once we’ve done that, I created a small API to have the temperature returned in JSON format.</p>
-<p><img src="https://i.imgur.com/blfd7wH.jpg" alt></p>
+<p><img src="https://i.imgur.com/blfd7wH.jpg" alt=""></p>
 <p>At this point, we decided we wanted to connect those two pieces and <a href="https://github.com/mozillach/mozilla-iot-hackaton" target="_blank" rel="noopener">create a Web app</a> to read out the temperature and announce it through voice. Since we couldn’t get Vaani working, we decided to use the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API" target="_blank" rel="noopener">WebSpeech API</a> for this. The voice output part is available in Firefox and Chrome right now, therefore we could achieve this goal without using any non-standard APIs. After that Geoffroy played around with the voice input feature of this API. This is currently only working in Chrome, but there is a <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1248897" target="_blank" rel="noopener">bug to implement it in Firefox</a> as well. In the spirit of the open web, we decided to ignore the fact that we need to use Chrome for now, and create a feature that is built on Web standards that are on track to standardization.</p>
-<p><img src="https://i.imgur.com/1ZWxMcC.jpg" alt></p>
+<p><img src="https://i.imgur.com/1ZWxMcC.jpg" alt=""></p>
 <p>After all, we could achieve something together and definitely had some good learnings during that.</p>
 <p><strong>Lessions learned</strong></p>
 <ul>
@@ -107,7 +107,7 @@
 <li><em>After the Hackathon*</em></li>
 </ul>
 <p>Since I needed to do a project for my studies that involves hardware as well, I could take the opportunity and take the sensors for my project.</p>
-<p><img src="https://i.imgur.com/tP4tcFC.png" alt></p>
+<p><img src="https://i.imgur.com/tP4tcFC.png" alt=""></p>
 <p>You can find the Source Code on the <a href="https://github.com/mozillach/raspberry-temp-motion" target="_blank" rel="noopener">MozillaCH github organization</a>. It currently regularly reads out the two temperature sensors and checks if there is any movement registered by the movement sensor. If the temperature difference is too high it sends an alarm to the NodeJS backend. The same goes for the situation where it detects movement. I see this as a first step into my own take on a smart home, it would need a lot of work and more sensors to be completely useful though.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
