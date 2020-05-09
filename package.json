@@ -19,7 +19,7 @@
     "hexo-renderer-marked": "^2.0.0",
     "hexo-renderer-stylus": "^1.1.0",
     "hexo-server": "^1.0.0",
-    "snyk": "^1.319.0"
+    "snyk": "^1.319.1"
   },
   "scripts": {
     "build": "hexo generate",
