@@ -111,21 +111,22 @@ The">
 0:00.40 /usr/local/bin/eslint --plugin html --ext [.js,.jsm,.jsx,.xml,.html] --no-ignore devtools/client/webconsole/test/browser_webconsole_live_filtering_of_message_types.js
 
 /home/user/firefox/devtools/client/webconsole/test/browser_webconsole_live_filtering_of_message_types.js
-8:1   warning  Could not load globals from file browser/base/content/browser-eme.js: Error: ENOENT: no such file or directory, open &apos;/home/user/firefox/browser/base/content/browser-eme.js&apos;  mozilla/import-browserjs-globals
-8:1   warning  Definition for rule &apos;mozilla/import-globals&apos; was not found                                                                                                                     mozilla/import-globals
-8:1   error    Definition for rule &apos;keyword-spacing&apos; was not found                                                                                                                            keyword-spacing
-18:17  error    content is a possible Cross Process Object Wrapper (CPOW)                                                                                                                      mozilla/no-cpows-in-tests
+8:1   warning  Could not load globals from file browser/base/content/browser-eme.js: Error: ENOENT: no such file or directory, open &#39;/home/user/firefox/browser/base/content/browser-eme.js&#39;  mozilla/import-browserjs-globals
+8:1   warning  Definition for rule &#39;mozilla/import-globals&#39; was not found                                                                                                                     mozilla/import-globals
+8:1   error    Definition for rule &#39;keyword-spacing&#39; was not found                                                                                                                            keyword-spacing
+18:17  error    content is a possible Cross Process Object Wrapper (CPOW)                                                                                                                      mozilla/no-cpows-in-tests
 
 ✖ 4 problems (2 errors, 2 warnings)
 
-0:02.85 Finished eslint. Errors encountered.</code></pre><p>As you might see from the input, running this in the Janitor environment results in not finding the Mozilla-specific rules. The reason here is that the eslint npm package is installed globally. Globally installed eslint can’t find the locally installed mozilla-eslint-plugin. In my opinion the easiest fix would be to not install it globally, just within the firefox directory (running “./mach eslint –setup”) while spinning up the instance should be enough here.</p>
+0:02.85 Finished eslint. Errors encountered.</code></pre>
+<p>As you might see from the input, running this in the Janitor environment results in not finding the Mozilla-specific rules. The reason here is that the eslint npm package is installed globally. Globally installed eslint can’t find the locally installed mozilla-eslint-plugin. In my opinion the easiest fix would be to not install it globally, just within the firefox directory (running “./mach eslint –setup”) while spinning up the instance should be enough here.</p>
 <p>We could circumvent this problem by changing the global npm prefix and then running it with “/new/path/eslint …” so it doesn’t call the other one. In hindsight, we could just have installed it to the directory and then call it through node_modules.</p>
 <p><strong>Update, May 5, 15:09:</strong> Jan has has fixed this plugin issue :)</p>
 <p><strong>Creating a patch</strong></p>
 <p>Creating a patch is really easy, following the <a href="https://developer.mozilla.org/en-US/docs/Mercurial/Using_Mercurial#I%27m_all_used_to_Git_but_how_can_I_provide_Mercurial-ready_patches" target="_blank" rel="noopener">tutorial on MDN</a> is enough. We were very happy to see that the moz-git-tools are already installed by default, so you can just create your own branch, checkin your changes and run “git format-patch -p -k master” to get a Git patch file. Since we need a Mercurial patch, you then run “git-patch-to-hg-patch” and you can upload the resulting file to Bugzilla and you’re set!</p>
 <p>Those two commands could maybe be aliased by default so running “create-patch” or similar would directly do this for you to further decrease the work you need to do manually.</p>
 <p><strong>Seeing it in action</strong></p>
-<p>[embed]<a href="https://www.youtube.com/watch?v=5sNDMIh-iVw[/embed]" target="_blank" rel="noopener">https://www.youtube.com/watch?v=5sNDMIh-iVw[/embed]</a></p>
+<p>[embed]<a href="https://www.youtube.com/watch?v=5sNDMIh-iVw%5B/embed%5D" target="_blank" rel="noopener">https://www.youtube.com/watch?v=5sNDMIh-iVw[/embed]</a></p>
 <p><strong>Conclusion</strong></p>
 <p>After some initial account problems, we didn’t really find any other bugs apart from the ESLint situation. Again, thanks a lot to Jan for providing us the environment and letting us test it. This will change the live of a lot of contributors! For now The Janitor supports contributions to Firefox, Chrome, Thunderbird, Servo and KDE. There is also a <a href="https://github.com/jankeromnes/janitor" target="_blank" rel="noopener">GitHub repository</a> for it.</p>
 
