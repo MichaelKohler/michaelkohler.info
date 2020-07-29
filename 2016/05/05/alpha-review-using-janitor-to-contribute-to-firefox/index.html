@@ -22,7 +22,7 @@ The">
   <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/m.min.css">
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
-<meta name="generator" content="Hexo 4.2.1"></head>
+<meta name="generator" content="Hexo 5.0.0"></head>
 
 <body>
   <a id="top"></a>
@@ -90,10 +90,10 @@ The">
     <div class="picture-container">
       
     </div>
-    <p>At the <a href="https://michaelkohler.info/2016/firefox-hackathon-zurich-april-2016">Firefox Hackathon in Zurich</a> we used <a href="http://janitor.technology/" target="_blank" rel="noopener">The Janitor</a> to contribute to Firefox. It’s important to note that it’s still in alpha and invite-only.</p>
+    <p>At the <a href="https://michaelkohler.info/2016/firefox-hackathon-zurich-april-2016">Firefox Hackathon in Zurich</a> we used <a target="_blank" rel="noopener" href="http://janitor.technology/">The Janitor</a> to contribute to Firefox. It’s important to note that it’s still in alpha and invite-only.</p>
 <p><a href="/2016/05/Screen-Shot-2016-05-05-at-14.37.23.png"><img src="/2016/05/Screen-Shot-2016-05-05-at-14.37.23.png" alt="Screen Shot 2016-05-05 at 14.37.23"></a></p>
-<p>The Janitor was started by <a href="https://mozillians.org/en-US/u/janx/" target="_blank" rel="noopener">Jan Keromnes</a>, a Mozilla employee. While still in an alpha state, Jan gave us access to it so we could test run it at our hackathon. Many thanks to him for spending his Saturday on IRC and helping us out with everything!</p>
-<p>Once you’re signed up, you can click on “Open in Cloud9” and directly get to the <a href="http://c9.io/" target="_blank" rel="noopener">Cloud9 editor</a> who kindly sponsor the premium accounts for this project. <span class="message"><span class="content">Cloud9 is a pure-web IDE based on real Linux environments, with an insanely fast editor</span></span>.</p>
+<p>The Janitor was started by <a target="_blank" rel="noopener" href="https://mozillians.org/en-US/u/janx/">Jan Keromnes</a>, a Mozilla employee. While still in an alpha state, Jan gave us access to it so we could test run it at our hackathon. Many thanks to him for spending his Saturday on IRC and helping us out with everything!</p>
+<p>Once you’re signed up, you can click on “Open in Cloud9” and directly get to the <a target="_blank" rel="noopener" href="http://c9.io/">Cloud9 editor</a> who kindly sponsor the premium accounts for this project. <span class="message"><span class="content">Cloud9 is a pure-web IDE based on real Linux environments, with an insanely fast editor</span></span>.</p>
 <p><a href="/2016/05/Screen-Shot-2016-05-05-at-14.38.23.png"><img src="/2016/05/Screen-Shot-2016-05-05-at-14.38.23.png" alt="Screen Shot 2016-05-05 at 14.38.23"></a></p>
 <p><a href="/2016/05/Screen-Shot-2016-05-05-at-14.38.50.png"><img src="/2016/05/Screen-Shot-2016-05-05-at-14.38.50.png" alt="Screen Shot 2016-05-05 at 14.38.50"></a></p>
 <p>At the hackathon we ran into a Cloud9 “create workspace” limitation, but according to Jan this should be fixed now.</p>
@@ -123,12 +123,12 @@ The">
 <p>We could circumvent this problem by changing the global npm prefix and then running it with “/new/path/eslint …” so it doesn’t call the other one. In hindsight, we could just have installed it to the directory and then call it through node_modules.</p>
 <p><strong>Update, May 5, 15:09:</strong> Jan has has fixed this plugin issue :)</p>
 <p><strong>Creating a patch</strong></p>
-<p>Creating a patch is really easy, following the <a href="https://developer.mozilla.org/en-US/docs/Mercurial/Using_Mercurial#I%27m_all_used_to_Git_but_how_can_I_provide_Mercurial-ready_patches" target="_blank" rel="noopener">tutorial on MDN</a> is enough. We were very happy to see that the moz-git-tools are already installed by default, so you can just create your own branch, checkin your changes and run “git format-patch -p -k master” to get a Git patch file. Since we need a Mercurial patch, you then run “git-patch-to-hg-patch” and you can upload the resulting file to Bugzilla and you’re set!</p>
+<p>Creating a patch is really easy, following the <a target="_blank" rel="noopener" href="https://developer.mozilla.org/en-US/docs/Mercurial/Using_Mercurial#I%27m_all_used_to_Git_but_how_can_I_provide_Mercurial-ready_patches">tutorial on MDN</a> is enough. We were very happy to see that the moz-git-tools are already installed by default, so you can just create your own branch, checkin your changes and run “git format-patch -p -k master” to get a Git patch file. Since we need a Mercurial patch, you then run “git-patch-to-hg-patch” and you can upload the resulting file to Bugzilla and you’re set!</p>
 <p>Those two commands could maybe be aliased by default so running “create-patch” or similar would directly do this for you to further decrease the work you need to do manually.</p>
 <p><strong>Seeing it in action</strong></p>
-<p>[embed]<a href="https://www.youtube.com/watch?v=5sNDMIh-iVw%5B/embed%5D" target="_blank" rel="noopener">https://www.youtube.com/watch?v=5sNDMIh-iVw[/embed]</a></p>
+<p>[embed]<a target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=5sNDMIh-iVw%5B/embed%5D">https://www.youtube.com/watch?v=5sNDMIh-iVw[/embed]</a></p>
 <p><strong>Conclusion</strong></p>
-<p>After some initial account problems, we didn’t really find any other bugs apart from the ESLint situation. Again, thanks a lot to Jan for providing us the environment and letting us test it. This will change the live of a lot of contributors! For now The Janitor supports contributions to Firefox, Chrome, Thunderbird, Servo and KDE. There is also a <a href="https://github.com/jankeromnes/janitor" target="_blank" rel="noopener">GitHub repository</a> for it.</p>
+<p>After some initial account problems, we didn’t really find any other bugs apart from the ESLint situation. Again, thanks a lot to Jan for providing us the environment and letting us test it. This will change the live of a lot of contributors! For now The Janitor supports contributions to Firefox, Chrome, Thunderbird, Servo and KDE. There is also a <a target="_blank" rel="noopener" href="https://github.com/jankeromnes/janitor">GitHub repository</a> for it.</p>
 
 
   </article>
