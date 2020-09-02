@@ -79,11 +79,11 @@ We worked on about 13 different bugs, and we finished 10 patches! This is a grea
 
 At the end of the hackathon we did a round of feedback. In general the feedback was rated pretty well, though we might have some things to improve for the next time.
 
-![](https://i.imgur.com/aeIyua4.png)
+![](/images/2016/05/hackathon1.png)
 
 40% of the attendees had their first interaction with our community at this hackathon! And guess what, 100% of the attendees who filled out the survey would be joining another hackathon in 6 months:
 
-![](https://i.imgur.com/VbpKmYN.png)
+![](/images/2016/05/hackathon2.png)
 
 For the next hackathon, we might want to have a talk about the Firefox Architecture in general to give some context to the different modules. Also for the next hackathon we probably will have a fully working Janitor (meaning not alpha status anymore) which will help even more as well.
 

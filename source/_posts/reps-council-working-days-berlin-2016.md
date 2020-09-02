@@ -42,7 +42,7 @@ Fun aside, yes, we'll start a new Working group around the topics of outwards co
 
 **Communication Session**
 
-![](https://i.imgur.com/UYKsm46.jpg)
+![](/images/2016/04/council-notes.jpg)
 
 On Sunday we ran a joint session with the rest of the Participation team around the topic "How we work together". We came up with the questions above and let those be answered / brainstormed in groups. I started to document the findings yesterday, but this is not yet in a state where it will be useful for anybody. Stay tuned for more communication around this (communication about communication, isn't it fun? :)). The last question around "How might we improve the communication between the Participation-Team and the Council?" is already documented in the Alignment Working group proposal. Further the Identity working group will tackle and elaborate further the question around visibility.
 

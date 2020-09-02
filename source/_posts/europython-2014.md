@@ -37,6 +37,3 @@ On friday afternoon I gave the last remaing stickers to the volunteers that had 
 - We must always assume that Mozilla is a sponsor of such events and that there may be no official Mozilla staff available to prepare a booth, especially if there's some "competing" event (e.g. OSCON).
 - There may be no access to the resources (swag, large color printers, demo equipment, competent people) needed to make the booth look "professional", especially if there's no time for serious preparation.
 - So next time I'm going to attend such an event, I should either coordinate my efforts with my local rep or their local office or have my Bugzilla permissions upgraded so I can check whether there's some open bug for the event I'm going to visit.
-
-<script src="resource://ember-inspector-at-emberjs-dot-com/ember-inspector/data/in-page-script.js"></script>
-<script src="resource://ember-inspector-at-emberjs-dot-com/ember-inspector/data/in-page-script.js"></script>

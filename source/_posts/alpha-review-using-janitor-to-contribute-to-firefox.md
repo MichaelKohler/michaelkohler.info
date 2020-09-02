@@ -12,15 +12,15 @@ date: 2016-05-05 15:02:12
 
 At the [Firefox Hackathon in Zurich](https://michaelkohler.info/2016/firefox-hackathon-zurich-april-2016) we used [The Janitor](http://janitor.technology/) to contribute to Firefox. It's important to note that it's still in alpha and invite-only.
 
-[![Screen Shot 2016-05-05 at 14.37.23](/2016/05/Screen-Shot-2016-05-05-at-14.37.23.png)](/2016/05/Screen-Shot-2016-05-05-at-14.37.23.png)
+[![Screen Shot 2016-05-05 at 14.37.23](/images/2016/05/Screen-Shot-2016-05-05-at-14.37.23.png)](/images/2016/05/Screen-Shot-2016-05-05-at-14.37.23.png)
 
 The Janitor was started by [Jan Keromnes](https://mozillians.org/en-US/u/janx/), a Mozilla employee. While still in an alpha state, Jan gave us access to it so we could test run it at our hackathon. Many thanks to him for spending his Saturday on IRC and helping us out with everything!
 
 Once you're signed up, you can click on "Open in Cloud9" and directly get to the [Cloud9 editor](http://c9.io/) who kindly sponsor the premium accounts for this project. <span class="message"><span class="content">Cloud9 is a pure-web IDE based on real Linux environments, with an insanely fast editor</span></span>.
 
-[![Screen Shot 2016-05-05 at 14.38.23](/2016/05/Screen-Shot-2016-05-05-at-14.38.23.png)](/2016/05/Screen-Shot-2016-05-05-at-14.38.23.png)
+[![Screen Shot 2016-05-05 at 14.38.23](/images/2016/05/Screen-Shot-2016-05-05-at-14.38.23.png)](/images/2016/05/Screen-Shot-2016-05-05-at-14.38.23.png)
 
-[![Screen Shot 2016-05-05 at 14.38.50](/2016/05/Screen-Shot-2016-05-05-at-14.38.50.png)](/2016/05/Screen-Shot-2016-05-05-at-14.38.50.png)
+[![Screen Shot 2016-05-05 at 14.38.50](/images/2016/05/Screen-Shot-2016-05-05-at-14.38.50.png)](/images/2016/05/Screen-Shot-2016-05-05-at-14.38.50.png)
 
 At the hackathon we ran into a Cloud9 "create workspace" limitation, but according to Jan this should be fixed now.
 
@@ -34,9 +34,9 @@ I had my environment ready in about 15 minutes if you count the time to compile 
 
 The Janitor includes a VNC viewer which opens a new tab and you can run your compiled Firefox in there. You can start a shell and run "./mach run" in the Firefox directory and you can start testing your changes.
 
-[![Screen Shot 2016-05-05 at 14.49.08](/2016/05/Screen-Shot-2016-05-05-at-14.49.08.png)](/2016/05/Screen-Shot-2016-05-05-at-14.49.08.png)
+[![Screen Shot 2016-05-05 at 14.49.08](/images/2016/05/Screen-Shot-2016-05-05-at-14.49.08.png)](/images/2016/05/Screen-Shot-2016-05-05-at-14.49.08.png)
 
-[![Screen Shot 2016-05-05 at 14.50.20](/2016/05/Screen-Shot-2016-05-05-at-14.50.20.png)](/2016/05/Screen-Shot-2016-05-05-at-14.50.20.png)
+[![Screen Shot 2016-05-05 at 14.50.20](/images/2016/05/Screen-Shot-2016-05-05-at-14.50.20.png)](/images/2016/05/Screen-Shot-2016-05-05-at-14.50.20.png)
 
 **Running ESLint**
 
@@ -70,7 +70,7 @@ Those two commands could maybe be aliased by default so running "create-patch" o
 
 **Seeing it in action**
 
-[embed]https://www.youtube.com/watch?v=5sNDMIh-iVw[/embed]
+You can watch it in action on [YouTube](https://www.youtube.com/watch?v=5sNDMIh-iVw).
 
 **Conclusion**
 

@@ -65,7 +65,7 @@ Over the recent years we got more and more organized, having regular meetups in 
 
 Henrik also introduced me to [MozFest](https://mozillafestival.org/) which I attended the first time together with Henrik in 2011. Since then I’ve attended all MozFests and I don’t plan to stop doing that!
 
-[![](https://pbs.twimg.com/media/B0zoOZoCMAMdzZx.jpg)](https://pbs.twimg.com/media/B0zoOZoCMAMdzZx.jpg)
+[![](/images/2018/04/mozfest.png)](/images/2018/04/mozfest.png)
 
 (Mozilla Switzerland reunited at MozFest 2014 - photo credits to Henrik)
 
@@ -79,13 +79,13 @@ I think my contributions through the Reps program would deserve a completely ind
 # Trying to build the German speaking community
 A big part of my Reps life was devoted to the German-speaking community. This includes Germany, Austria and parts of Switzerland. I was invited to the [“Community Reboot”](http://brian.kingsonline.net/talk/2013/01/german-community-reboot/) event in January 2013 which marked the [start](https://www.soeren-hentzschel.at/mozilla/ein-neuanfang-fur-die-deutschsprachige-mozilla-community/) of my little project to nurture the German-speaking community and bring it closer together. We did several experiments with the regular [online meetings of the community](https://wiki.mozilla.org/De/Meetings) and also introduced regular video meetings.
 
-[![](https://pbs.twimg.com/media/BpTy6z6CAAI9Vmm.png)](https://pbs.twimg.com/media/BpTy6z6CAAI9Vmm.png)
+[![](/images/2018/04/demeeting.png)](/images/2018/04/demeeting.png)
 
 I’ve organized a [followup real-life meeting in February 2014](https://reps.mozilla.org/e/german-speaking-community-meeting-2014/) to bring the community together and talk about everything community related. In 2015 we’ve organized the [first Mozilla Tech Weekend](https://reps.mozilla.org/e/mozilla-tech-weekend-berlin/) which gave a good initial boost to the Berlin community.  A big shoutout goes to [Florian Merz](https://reps.mozilla.org/u/flomerz/) for talking it into his own hands to build a community in Berlin. Well done! A big "thank you" goes to [Axel Hecht](https://mozillians.org/en-US/u/Pike/) as well, as he has been guiding and mentoring me along the way. I think I would have abandoned this project earlier without him.
 
-[![](https://pbs.twimg.com/media/Bf9I28cIUAAKytB.png)](https://pbs.twimg.com/media/Bf9I28cIUAAKytB.png)
+[![](/images/2018/04/hacking.png)](/images/2018/04/hacking.png)
 
-[![](https://pbs.twimg.com/media/Bf9qdt3IQAAmFUQ.png)](https://pbs.twimg.com/media/Bf9qdt3IQAAmFUQ.png)
+[![](/images/2018/04/demeeting2.png)](/images/2018/04/demeeting2.png)
 
 All my efforts lasted until around early 2016, when I decided that the whole project doesn’t meet my high expectations and I didn’t see any progress within the German-speaking community for quite some time. There were other reasons I’d like not to mention here, that’s why I’m keeping this section of the blog post quite small. All in all, it was a good opportunity for me to build skills and capabilities and I think it’s always good to learn from unsuccessful projects. I definitely did!
 
@@ -105,9 +105,9 @@ As Firefox OS was my new primary focus, I started organising events and talks ab
 
 You can find all my talks I’ve ever given [on my website](https://mkohler.codes/talks).
 
-![](https://pbs.twimg.com/media/BixjpuMIIAA6um6.jpg:large)
+![](/images/2014/04/salzburg1.png)
 
-![](https://pbs.twimg.com/media/BqFMJTqIYAApDza.jpg:large)
+![](/images/2018/04/chhackathon.png)
 
 Once Firefox OS launched in Germany, I was part of the launch team. We did a [promotion event in Cologne](https://wiki.mozilla.org/De/Firefox_OS_Promotion_Cologne_2014) which was something new to me. I was used to "selling" Firefox to people, but there was no actual sale involved. With Firefox OS, potential users had to buy a phone to actually use it. I think we had some traction with the Firefox costume, but not really with Firefox OS. Well, I guess that was to be expected in hindsight.
 
@@ -116,16 +116,16 @@ I was involved with Firefox OS until the [decision to pivot to Connected Devices
 # Reps Governance & Participation
 Thanks to my involvement in the Reps program on a strategic level and my interest in continuing this, I’ve applied to the [Reps Council elections in 2015](https://blog.mozilla.org/mozillareps/2015/05/08/council-elections-know-your-candidates/) in May 2015. This allowed me to shape the conversation and strategy about the Reps program on a more impactful level. This included being invited to several [Mozilla All Hands](https://wiki.mozilla.org/All_Hands) where we spent a week discussing everything about Participation. Some people might not understand why I would take a week off my work to go “work” for Mozilla in my free time, but well, that’s who I am.
 
-[![](https://mkohler.codes/assets/images/me.jpg)](https://mkohler.codes/assets/images/me.jpg)
+[![](https://mkohler.codes/images/me.webp)](https://mkohler.codes/assets/images/me.webp)
 
 As my first term came to an end, I like having these conversations so much that I [decided to apply for another term](https://discourse.mozilla.org/t/council-elections-september-2016-nominee-q-a/10650). Crazy, I know. We went through the whole “Reps Next” project and introduced a few improvements to the program which were overdue for a long time. This term lasted until November 2017. You might ask why two terms amount to about one and a half year? We had a little delay on the second elections and therefore were not fully on schedule anymore. Happens :)
 
-[![](https://mkohler.codes/assets/images/reps_group.jpg)](https://mkohler.codes/assets/images/reps_group.jpg)
+[![](https://mkohler.codes/images/reps_group.webp)](https://mkohler.codes/assets/images/reps_group.webp)
 
 After my second term on Council I decided to accept Ioana’s proposal to become a Peer. This was officially announced in December 2017. I hope to bring the same valuable inputs to strategic discussions about the program to the broader group as I have been in Council. Let’s see what comes next :)
 
 # What is next
-I’ve recently moved to Berlin to my amazing Mozillian girlfriend. As some of you know, I've been together with Konstantina for almost 3 years now and finally was able to make the step to move there as well. This means no longer communiting from Switzerland to Berlin on weekends, which became quite cumbersome over time. I'm very happy I did this and there are no regrets whatsoever. As I'm still employed by NEEO and working remotely, it's definitely an exciting time.
+I’ve recently moved to Berlin to my amazing Mozillian girlfriend. As some of you know, I've been together with Konstantina for almost 3 years now and finally was able to make the step to move there as well. This means no longer commuting from Switzerland to Berlin on weekends, which became quite cumbersome over time. I'm very happy I did this and there are no regrets whatsoever. As I'm still employed by NEEO and working remotely, it's definitely an exciting time.
 
 Moving to Berlin means putting the Swiss community into the very capable hands of other contributors but of course I’ll still be in Switzerland from time to time. I’m sure they will do fine without me :)
 
