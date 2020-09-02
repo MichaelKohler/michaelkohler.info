@@ -31,48 +31,20 @@ Before the hackathon we created a list of "good first bugs" that we could work o
 ![](https://c5.staticflickr.com/8/7791/26736583812_e110d0bebb_z.jpg)
 
 We worked on about 13 different bugs, and we finished 10 patches! This is a great achievement, we probably couldn't have done that if we needed more time to set up a traditional Firefox environment. Here's the full list:
-<div id="magicdomid597" class="ace-line">
 
-*   <span class="author-a-z67zz76z0z122zz79z2z84z7v8iz66zz74zz90z65 url">[https://bugzilla.mozilla.org/show_bug.cgi?id=1031956](https://bugzilla.mozilla.org/show_bug.cgi?id=1031956)</span><span class="author-a-z67zz76z0z122zz79z2z84z7v8iz66zz74zz90z65"> (</span><span class="author-a-tz67zz70zz83zmk2z66zpy0o9z83zz81zz71z">Colin, </span><span class="author-a-z67zz76z0z122zz79z2z84z7v8iz66zz74zz90z65">Patch done, but not yet uploaded)</span>
-</div>
-<div id="magicdomid598" class="ace-line">
+* [https://bugzilla.mozilla.org/show_bug.cgi?id=1031956](https://bugzilla.mozilla.org/show_bug.cgi?id=1031956) (Colin, Patch done, but not yet uploaded)
+* [https://bugzilla.mozilla.org/show_bug.cgi?id=1256822](https://bugzilla.mozilla.org/show_bug.cgi?id=1256822) (Fabien, patch just needs a small addition to the commit message)
+* [https://bugzilla.mozilla.org/show_bug.cgi?id=1256895](https://bugzilla.mozilla.org/show_bug.cgi?id=1256895) (Ale and Richard, patch just needs a small addition to the commit message)
+* [https://bugzilla.mozilla.org/show_bug.cgi?id=1256912](https://bugzilla.mozilla.org/show_bug.cgi?id=1256912) (Augustin, patch was checked in)
+* [https://bugzilla.mozilla.org/show_bug.cgi?id=1256810](https://bugzilla.mozilla.org/show_bug.cgi?id=1256810) (Fabien, patch just needs a small addition to the commit message)
+* [https://bugzilla.mozilla.org/show_bug.cgi?id=1256936](https://bugzilla.mozilla.org/show_bug.cgi?id=1256936) (Fabien, patch just needs a small addition to the commit message)
+* [https://bugzilla.mozilla.org/show_bug.cgi?id=1256795](https://bugzilla.mozilla.org/show_bug.cgi?id=1256795) (Ale and Richard, patch just needs a small addition to the commit message)
+* [https://bugzilla.mozilla.org/show_bug.cgi?id=1235062](https://bugzilla.mozilla.org/show_bug.cgi?id=1235062) (Ale and Richard, patchs needs some more work)
+* [https://bugzilla.mozilla.org/show_bug.cgi?id=1256863](https://bugzilla.mozilla.org/show_bug.cgi?id=1256863) (Michael, patch was checked in)
+* [https://bugzilla.mozilla.org/show_bug.cgi?id=1256854](https://bugzilla.mozilla.org/show_bug.cgi?id=1256854) (Michael, patch was checked in)
 
-*   <span class="author-a-z67zz76z0z122zz79z2z84z7v8iz66zz74zz90z65 url">[https://bugzilla.mozilla.org/show_bug.cgi?id=1256822](https://bugzilla.mozilla.org/show_bug.cgi?id=1256822)</span><span class="author-a-tz67zz70zz83zmk2z66zpy0o9z83zz81zz71z"> (Fabien, patch just needs a small addition to the commit message)</span>
-</div>
-<div id="magicdomid599" class="ace-line">
+Thanks to everybody who contributed, great work! Also a big thanks to Julian Descolette, a Dev Tools employee from Switzerland who supported us as a really good mentor. Without him we probably couldn't have fixed some of the bugs in that time!
 
-*   <span class="author-a-z67zz76z0z122zz79z2z84z7v8iz66zz74zz90z65 url">[https://bugzilla.mozilla.org/show_bug.cgi?id=1256895](https://bugzilla.mozilla.org/show_bug.cgi?id=1256895)</span> <span class="author-a-tz67zz70zz83zmk2z66zpy0o9z83zz81zz71z">(Ale and Richard, patch just needs a small addition to the commit message)</span>
-</div>
-<div id="magicdomid600" class="ace-line">
-
-*   <span class="author-a-z67zz76z0z122zz79z2z84z7v8iz66zz74zz90z65 url">[https://bugzilla.mozilla.org/show_bug.cgi?id=1256912](https://bugzilla.mozilla.org/show_bug.cgi?id=1256912)</span><span class="author-a-tz67zz70zz83zmk2z66zpy0o9z83zz81zz71z"> (Augustin, patch was checked in)</span>
-</div>
-<div id="magicdomid601" class="ace-line">
-
-*   <span class="author-a-z67zz76z0z122zz79z2z84z7v8iz66zz74zz90z65 url">[https://bugzilla.mozilla.org/show_bug.cgi?id=1256810](https://bugzilla.mozilla.org/show_bug.cgi?id=1256810)</span><span class="author-a-tz67zz70zz83zmk2z66zpy0o9z83zz81zz71z"> (Fabien, patch just needs a small addition to the commit message)</span>
-</div>
-<div id="magicdomid602" class="ace-line">
-
-*   <span class="author-a-z67zz76z0z122zz79z2z84z7v8iz66zz74zz90z65 url">[https://bugzilla.mozilla.org/show_bug.cgi?id=1256936](https://bugzilla.mozilla.org/show_bug.cgi?id=1256936)</span><span class="author-a-tz67zz70zz83zmk2z66zpy0o9z83zz81zz71z"> (Fabien, patch just needs a small addition to the commit message)</span>
-</div>
-<div id="magicdomid603" class="ace-line">
-
-*   <span class="author-a-z67zz76z0z122zz79z2z84z7v8iz66zz74zz90z65 url">[https://bugzilla.mozilla.org/show_bug.cgi?id=1256795](https://bugzilla.mozilla.org/show_bug.cgi?id=1256795)</span><span class="author-a-tz67zz70zz83zmk2z66zpy0o9z83zz81zz71z"> (Ale and Richard, patch just needs a small addition to the commit message)</span>
-</div>
-<div id="magicdomid604" class="ace-line">
-
-*   <span class="author-a-z67zz76z0z122zz79z2z84z7v8iz66zz74zz90z65 url">[https://bugzilla.mozilla.org/show_bug.cgi?id=1235062](https://bugzilla.mozilla.org/show_bug.cgi?id=1235062)</span><span class="author-a-tz67zz70zz83zmk2z66zpy0o9z83zz81zz71z"> (Ale and Richard, patchs needs some more work)</span>
-</div>
-<div id="magicdomid605" class="ace-line">
-
-*   <span class="author-a-z67zz76z0z122zz79z2z84z7v8iz66zz74zz90z65 url">[https://bugzilla.mozilla.org/show_bug.cgi?id=1256863](https://bugzilla.mozilla.org/show_bug.cgi?id=1256863)</span><span class="author-a-tz67zz70zz83zmk2z66zpy0o9z83zz81zz71z"> (Michael, patch was checked in)</span>
-</div>
-<div id="magicdomid607" class="ace-line">
-
-*   <span class="author-a-z67zz76z0z122zz79z2z84z7v8iz66zz74zz90z65 url">[https://bugzilla.mozilla.org/show_bug.cgi?id=1256854](https://bugzilla.mozilla.org/show_bug.cgi?id=1256854)</span><span class="author-a-tz67zz70zz83zmk2z66zpy0o9z83zz81zz71z"> (Michael, patch was checked in)</span>
-</div>
-<div id="magicdomid46" class="">Thanks to everybody who contributed, great work! Also a big thanks to Julian Descolette, a Dev Tools employee from Switzerland who supported us as a really good mentor. Without him we probably couldn't have fixed some of the bugs in that time!</div>
-<div class=""></div>
 ![](https://c5.staticflickr.com/8/7137/26736578932_68c48cf246_z.jpg)
 
 **Feedback**
