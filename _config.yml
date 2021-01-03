@@ -75,15 +75,6 @@ theme: pln
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-# deploy:
-#   type: rsync
-#   host: me.michaelkohler.info
-#   user: mkohler
-#   root: /var/www/html/michaelkohler/
-#   port: 22
-#   delete: false
-#   verbose: true
-#   ignore_errors: false
 
 # RSS Feed Plugin
 # NOTE: it is 'category' as prefix for legacy reasons,
